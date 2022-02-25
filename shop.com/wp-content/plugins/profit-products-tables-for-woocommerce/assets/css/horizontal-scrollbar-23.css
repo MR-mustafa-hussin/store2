@@ -1,0 +1,29 @@
+.horizontal-scrollbar23-wrapper {
+    bottom: 25px;
+}
+
+.horizontal-scrollbar23-track {
+    width: 100%;
+    position: relative !important;
+    border: solid 1px #99a0fc;
+    /* background: linear-gradient(to bottom, #ddd -50%, white 150%); */
+    background: #fff;
+    cursor: pointer;
+}
+
+.horizontal-scrollbar23-handler{
+    background: #99a0fc;
+    border: 1px solid #99a0fc;                
+    position: absolute;
+    top: -1px;
+}
+
+.horizontal-scrollbar23-track,
+.horizontal-scrollbar23-handler{
+    border-radius: 0;
+    height: 18px;
+}
+
+.horizontal-scrollbar23-handler:active{
+    cursor: e-resize
+}

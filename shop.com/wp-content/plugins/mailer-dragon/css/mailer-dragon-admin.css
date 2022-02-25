@@ -1,0 +1,32 @@
+/*
+Mailer Dragon styling
+    Created on : May 4, 2015, 5:22:43 PM
+    Author     : impleCode
+    http://implecode.com/wordpress/plugins/mailer-dragon/
+*/
+
+select.ic_chosen {
+    display: none;
+}
+/* Admin ToolTip */
+
+.ui-tooltip, .tooltip {
+    background: #edf2f2;
+    border: 3px solid #dde4e4;
+    padding: 10px;
+    color: #0a063b !important;
+    border-radius: 5px;
+    font: normal 14px "Helvetica Neue", Sans-Serif;
+    max-width: 220px;
+    position: fixed;
+    opacity: 1 !important;
+    z-index: 9999999;
+    box-shadow: 1px 1px 4px #0a063b;
+}
+
+
+@media screen and (min-width: 782px) {
+    th.column-delivered_qty, th.column-pending_users, th.column-delayed_users, .column-delivered_qty, .column-pending_users, .column-delayed_users {
+        text-align: center;
+    }
+}

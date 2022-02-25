@@ -1,0 +1,86 @@
+.blocks-constructor-23{
+    overflow: hidden;
+    display: table;
+    clear: both;
+    display: flex;
+}
+
+
+.blocks-constructor-23-donor{
+    float: left;
+    flex: 35%;
+    background: #fafaff !important;
+    position: relative;
+}
+
+.blocks-constructor-23-acceptor{
+    float: right;
+    flex: 65%;
+    background: #dafada;
+    position: relative;
+}
+
+.blocks-constructor-23-donor,
+.blocks-constructor-23-acceptor{    
+    max-height: 500px;
+    overflow: hidden;
+    overflow-y: auto;
+    color: #4267B7;
+    padding: 0 0 15px 0;
+}
+
+/*************************/
+
+.blocks-constructor-23-element{
+    position: relative;
+    padding: 7px;
+    margin-bottom: 0;
+    border: solid 2px #f9f9f8;
+    background-color: #f2f2f2;
+    color: #333;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
+                          supported by Chrome, Opera and Firefox */
+}
+
+.blocks-constructor-23-element-drag{
+    position: absolute;
+    right: 4px;
+    top: 6px;
+    background-image: url("../../assets/img/move.png");
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 99%;
+    width: 20px;
+    height: 20px;
+}
+
+.blocks-constructor-23-element-btn{
+    position: absolute;
+    right: 24px;
+    top: 6px;
+    width: auto;
+    height: 22px;
+}
+
+.blocks-constructor-23-donor .blocks-constructor-23-element-btn{
+    display: none;
+}
+
+.blocks-constructor-23-element-drag:hover{
+    cursor: pointer;
+}
+
+.blocks-constructor-23-dragged .blocks-constructor-23-element-drag:hover{
+    cursor: crosshair;
+}
+
+.blocks-constructor-23-ghost{
+    border: dashed 2px orange;
+    background: green;
+    color: #fff;
+}

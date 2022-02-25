@@ -1,0 +1,33 @@
+/**2022.01.15 - 1.0.7**/
+- Updated: Compatible with WC 6.1.0
+- Updated: Support
+
+/**2021.07.09 - 1.0.6**/
+ - Fixed: Size charts not showing in some themes
+
+/**2021.06.30 - 1.0.5**/
+ - Fixed: Shortcodes not working correctly
+ - Updated: Position After add to cart
+
+/**2021.06.12 - 1.0.4**/
+- Moved pop-up to footer
+- New feature Duplicate size chart
+
+/**1.0.3.1 - **/
+- Updated: Support class
+
+/**2021.04.19 - 1.0.3**/
+- Fixed: Preview css
+- Fixed: Assign categories and assign products
+- Fixed: Lose size charts data when restoring size chart
+
+/**2021.03.11 - 1.0.2**/
+- Update: Pop-up CSS
+
+/**2021.03.06 - 1.0.1**/
+- Fixed: Pop-up CSS
+- Fixed: Pop-up conflict with some themes
+- Fixed: Setting display Before add to cart properties
+
+/**2021.01.31 - 1.0.0**/
+- The first release

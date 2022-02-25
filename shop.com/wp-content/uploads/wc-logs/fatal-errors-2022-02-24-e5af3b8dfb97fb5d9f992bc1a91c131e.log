@@ -1,0 +1,14 @@
+2022-02-24T19:30:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\shop.com\wp-includes\wp-db.php في السطر 2162
+
+2022-02-24T21:31:24+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress/class-buddypress.php' (include_path='C:\xampp\php\PEAR') في C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress\bp-loader.php في السطر 76
+
+2022-02-24T21:31:27+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress/class-buddypress.php' (include_path='C:\xampp\php\PEAR') في C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress\bp-loader.php في السطر 76
+
+2022-02-24T21:31:27+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress/class-buddypress.php' (include_path='C:\xampp\php\PEAR') في C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress\bp-loader.php في السطر 76
+
+2022-02-24T21:31:34+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress/class-buddypress.php' (include_path='C:\xampp\php\PEAR') في C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress\bp-loader.php في السطر 76
+
+2022-02-24T21:31:35+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress/class-buddypress.php' (include_path='C:\xampp\php\PEAR') في C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress\bp-loader.php في السطر 76
+
+2022-02-24T21:31:36+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress/class-buddypress.php' (include_path='C:\xampp\php\PEAR') في C:\xampp\htdocs\shop.com\wp-content\plugins\buddypress\bp-loader.php في السطر 76
+

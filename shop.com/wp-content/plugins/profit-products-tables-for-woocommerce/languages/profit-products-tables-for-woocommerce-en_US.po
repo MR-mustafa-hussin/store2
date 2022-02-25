@@ -1,0 +1,1836 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-04 12:45+0000\n"
+"PO-Revision-Date: 2020-08-04 12:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Language: en_US\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: index.php:104
+msgid "Products Tables"
+msgstr ""
+
+#: index.php:105 views/options.php:178
+msgid "Documentation"
+msgstr ""
+
+#: index.php:256 index.php:964 views/popup.php:22 views/table.php:107
+msgid "Loading ..."
+msgstr ""
+
+#: index.php:257 index.php:965
+msgid "No Data!"
+msgstr ""
+
+#: index.php:258 index.php:273 index.php:966
+msgid "Error!"
+msgstr ""
+
+#: index.php:259
+msgid "Creating"
+msgstr ""
+
+#: index.php:260
+msgid "Created!"
+msgstr ""
+
+#: index.php:261
+msgid "Saving"
+msgstr ""
+
+#: index.php:262
+msgid "Saved!"
+msgstr ""
+
+#: index.php:263
+msgid "Adding"
+msgstr ""
+
+#: index.php:264
+msgid "Added!"
+msgstr ""
+
+#: index.php:265
+msgid "Deleting"
+msgstr ""
+
+#: index.php:266
+msgid "Deleted!"
+msgstr ""
+
+#: index.php:267
+msgid "Updating"
+msgstr ""
+
+#: index.php:268
+msgid "Cloning"
+msgstr ""
+
+#: index.php:269
+msgid "Cloned!"
+msgstr ""
+
+#: index.php:270
+msgid "Are you sure?"
+msgstr ""
+
+#: index.php:271
+msgid "Notice!"
+msgstr ""
+
+#: index.php:272
+msgid "Warning!"
+msgstr ""
+
+#: index.php:274
+msgid "Adding to cart ..."
+msgstr ""
+
+#: index.php:275
+msgid "Product added to cart!"
+msgstr ""
+
+#: index.php:276
+msgid "Cart updated!"
+msgstr ""
+
+#: index.php:277
+msgid "In cart"
+msgstr ""
+
+#: index.php:278
+msgid "Reset"
+msgstr ""
+
+#: index.php:279
+msgid "Select table thumbnail"
+msgstr ""
+
+#: index.php:280
+msgid "Shortcodes Help"
+msgstr ""
+
+#: index.php:281 classes/columns.php:289 views/options.php:72
+#: views/options.php:291
+msgid "Help"
+msgstr ""
+
+#: index.php:282 index.php:967
+msgid "Products"
+msgstr ""
+
+#: index.php:284
+msgid "add selected"
+msgstr ""
+
+#: index.php:285
+msgid "Add to cart"
+msgstr ""
+
+#: index.php:286
+msgid "Shop cart"
+msgstr ""
+
+#: index.php:287
+msgid "Checkout"
+msgstr ""
+
+#: index.php:288
+msgid "Clear cart"
+msgstr ""
+
+#: index.php:289
+msgid "select"
+msgstr ""
+
+#: index.php:290
+msgid "Select all products"
+msgstr ""
+
+#: index.php:291
+msgid "show"
+msgstr ""
+
+#: index.php:292
+msgid "hide"
+msgstr ""
+
+#: index.php:293
+msgid "Table #{0}; filter field: {1}"
+msgstr ""
+
+#: index.php:294
+msgid "Product title"
+msgstr ""
+
+#: index.php:295
+msgid "Importing"
+msgstr ""
+
+#: index.php:296
+msgid "Imported!"
+msgstr ""
+
+#: index.php:297
+msgid "Online!"
+msgstr ""
+
+#: index.php:298
+msgid "Offline!"
+msgstr ""
+
+#: index.php:299
+msgid ""
+"The product maybe is: sold out, individual one and is added to the cart, "
+"requested count is over exceed!"
+msgstr ""
+
+#: index.php:300
+msgid "Max count of products is:"
+msgstr ""
+
+#: index.php:380
+#, php-format
+msgid "Table #%s does not exists!"
+msgstr ""
+
+#: index.php:461 classes/tables-options.php:298
+msgid "search by title"
+msgstr ""
+
+#: index.php:491
+msgid "click on me"
+msgstr ""
+
+#: index.php:968
+msgid "Page"
+msgstr ""
+
+#: index.php:969
+msgid "Pages"
+msgstr ""
+
+#: index.php:970
+msgid "Load More"
+msgstr ""
+
+#: index.php:1489
+msgid "ATTENTION! All existed WOOT data will be wiped!"
+msgstr ""
+
+#: index.php:1497
+msgid "Import"
+msgstr ""
+
+#: index.php:1503
+msgid "Columns keys"
+msgstr ""
+
+#: index.php:1518
+msgid "Order by keys"
+msgstr ""
+
+#: index.php:1527
+msgid "Filter keys"
+msgstr ""
+
+#: index.php:1566
+msgid "WOOT Blank Page"
+msgstr ""
+
+#: index.php:1624
+msgid "click me"
+msgstr ""
+
+#: index.php:1761
+msgid "Products in popup"
+msgstr ""
+
+#: index.php:1872
+msgid "Product"
+msgstr ""
+
+#: profiles/default.php:14 classes/skins.php:31
+msgid "Default"
+msgstr ""
+
+#: profiles/default.php:34 classes/tables.php:133
+#: profiles/woocommerce/woocommerce.php:476
+msgid "Thumbnail"
+msgstr ""
+
+#: profiles/default.php:38 classes/predefinition.php:91
+#: classes/settings.php:126 classes/columns.php:81 classes/tables-meta.php:264
+#: classes/tables-options.php:81 classes/tables.php:68 classes/tables.php:134
+#: classes/columns-fields-options.php:97 classes/filter-fields-options.php:87
+#: classes/filter-fields-options.php:124
+#: profiles/woocommerce/woocommerce-single.php:67
+#: profiles/woocommerce/woocommerce.php:554
+msgid "Title"
+msgstr ""
+
+#: profiles/default.php:42 profiles/default.php:44
+#: profiles/woocommerce/woocommerce.php:667
+msgid "Excerpt"
+msgstr ""
+
+#: profiles/default.php:48
+msgid "See Excerpt"
+msgstr ""
+
+#: profiles/default.php:52 profiles/default.php:54
+#: profiles/woocommerce/woocommerce.php:694
+msgid "Content"
+msgstr ""
+
+#: profiles/default.php:58
+msgid "See Content"
+msgstr ""
+
+#: profiles/default.php:62 profiles/woocommerce/woocommerce.php:746
+msgid "Status"
+msgstr ""
+
+#: profiles/default.php:66 profiles/woocommerce/woocommerce.php:756
+#: profiles/woocommerce/woocommerce.php:794
+msgid "Author"
+msgstr ""
+
+#: profiles/default.php:69 profiles/woocommerce/woocommerce-reviews.php:39
+msgid "Date"
+msgstr ""
+
+#: profiles/default.php:73
+msgid "Modified"
+msgstr ""
+
+#: profiles/default.php:77 profiles/woocommerce/woocommerce.php:875
+msgid "Comment count"
+msgstr ""
+
+#: classes/predefinition.php:94 classes/settings.php:129
+#: classes/tables-options.php:84 classes/columns-fields-options.php:100
+#: classes/filter-fields-options.php:90
+#: profiles/woocommerce/woocommerce-single.php:70
+msgid "Value"
+msgstr ""
+
+#: classes/predefinition.php:99 classes/settings.php:134
+#: classes/tables-options.php:89 classes/columns-fields-options.php:103
+#: classes/filter-fields-options.php:93
+msgid "Info"
+msgstr ""
+
+#: classes/predefinition.php:153 classes/columns.php:308
+#: classes/tables-meta.php:393 classes/tables-options.php:473
+msgid "Wrong type"
+msgstr ""
+
+#: classes/predefinition.php:177
+msgid "Products ids"
+msgstr ""
+
+#: classes/predefinition.php:180
+msgid ""
+"Using comma, set products ids you want to show in the table. Example: 23,99,"
+"777. Set -1 if you do not want to use it."
+msgstr ""
+
+#: classes/predefinition.php:184
+msgid "Exclude products ids"
+msgstr ""
+
+#: classes/predefinition.php:187
+msgid ""
+"Using comma, set products ids you want to hide in the table. Example: 24,101,"
+"888. Set -1 if you do not want to use it."
+msgstr ""
+
+#: classes/predefinition.php:191
+msgid "Products SKU"
+msgstr ""
+
+#: classes/predefinition.php:194
+msgid ""
+"Using comma, set products SKU you want to show in the table. Example: aa1,"
+"bb2,cc3. Set -1 if you do not want to use it."
+msgstr ""
+
+#: classes/predefinition.php:198
+msgid "Exclude products SKU"
+msgstr ""
+
+#: classes/predefinition.php:201
+msgid ""
+"Using comma, set products SKU you want to hide in the table. Example: aa1,"
+"bb2,cc3. Set -1 if you do not want to use it."
+msgstr ""
+
+#: classes/predefinition.php:205
+msgid "On sale only"
+msgstr ""
+
+#: classes/predefinition.php:208
+msgid "Show products which are on sale only"
+msgstr ""
+
+#: classes/predefinition.php:212
+msgid "Show hidden"
+msgstr ""
+
+#: classes/predefinition.php:215
+msgid "Show products which visibility in the catalog is set as hidden"
+msgstr ""
+
+#: classes/predefinition.php:219
+msgid "In stock only"
+msgstr ""
+
+#: classes/predefinition.php:222
+msgid "Show products which are in stock only"
+msgstr ""
+
+#: classes/predefinition.php:226
+msgid "Featured only"
+msgstr ""
+
+#: classes/predefinition.php:229
+msgid "Show featured products only"
+msgstr ""
+
+#: classes/predefinition.php:233
+msgid "Authors"
+msgstr ""
+
+#: classes/predefinition.php:236
+msgid ""
+"Products by authors ids. Example: 1,2,3. Set -1 if you do not want to use it."
+msgstr ""
+
+#: classes/predefinition.php:240
+msgid "Bestsellers"
+msgstr ""
+
+#: classes/predefinition.php:243
+msgid ""
+"Bestsellers products. Set their count to display. Set -1 if you do not want "
+"to use it."
+msgstr ""
+
+#: classes/predefinition.php:247
+msgid "Newest"
+msgstr ""
+
+#: classes/predefinition.php:250
+msgid ""
+"Newest products. Set their count to display. Set -1 if you do not want to "
+"use it."
+msgstr ""
+
+#: classes/predefinition.php:254
+msgid "Included taxonomy"
+msgstr ""
+
+#: classes/predefinition.php:257
+msgid ""
+"Display products which relevant to the rule. Example: product_cat:25,"
+"26|pa_color:19|rel:AND. Set -1 if you do not want to use it."
+msgstr ""
+
+#: classes/predefinition.php:261
+msgid "Excluded taxonomy"
+msgstr ""
+
+#: classes/predefinition.php:264
+msgid ""
+"Exclude products which relevant to the rule. Example: pa_color:19|pa_size:"
+"21|rel:OR. Set -1 if you do not want to use it."
+msgstr ""
+
+#: classes/settings.php:178
+msgid "Show button in admin bar"
+msgstr ""
+
+#: classes/settings.php:180
+msgid ""
+"Enable/Disable WOOT button on the top admin bar. Button will "
+"appear/disappear after the page reloading!"
+msgstr ""
+
+#: classes/settings.php:184
+msgid "Languages"
+msgstr ""
+
+#: classes/settings.php:189
+msgid ""
+"Languages for tab Vocabulary. This options created for dynamic words and "
+"such plugins as WPML. Use the comma to add languages you want to use on the "
+"site front. By default: -1. Example: en_US,fr_FR,es_ES,de_DE,ru_RU. After "
+"the field change, settings of Vocabulary will appear after the page "
+"reloading."
+msgstr ""
+
+#: classes/settings.php:193
+msgid "Fonts"
+msgstr ""
+
+#: classes/settings.php:198
+msgid ""
+"For the columns options. Use fonts which are represented in the current "
+"WordPress theme. Use comma and do not use quotes! Example: Helvetica,Roboto"
+msgstr ""
+
+#: classes/settings.php:202
+msgid "Thumbnail size"
+msgstr ""
+
+#: classes/settings.php:208
+msgid "Default size of products thumbnails (px)"
+msgstr ""
+
+#: classes/settings.php:212
+msgid "Wipe all data"
+msgstr ""
+
+#: classes/settings.php:214
+msgid ""
+"Enable this option ONLY if you are going to uninstall WOOT completely and "
+"forever. For updates keep it disabled."
+msgstr ""
+
+#: classes/settings.php:223
+msgid "Users roles can manage"
+msgstr ""
+
+#: classes/settings.php:233
+msgid ""
+"What users roles (together with administrator) can manage WOOT functionality"
+msgstr ""
+
+#: classes/columns.php:78
+msgid "Move"
+msgstr ""
+
+#: classes/columns.php:86
+msgid "Active"
+msgstr ""
+
+#: classes/columns.php:90
+msgid "Mobile"
+msgstr ""
+
+#: classes/columns.php:94
+msgid "Field"
+msgstr ""
+
+#: classes/columns.php:98 classes/columns-fields-options.php:214
+#: classes/filter-fields-options.php:209
+#: profiles/woocommerce/woocommerce.php:1192
+msgid "Width"
+msgstr ""
+
+#: classes/columns.php:102 classes/tables-meta.php:279
+msgid "Notes"
+msgstr ""
+
+#: classes/columns.php:106 classes/tables-meta.php:283 classes/tables.php:88
+msgid "Actions"
+msgstr ""
+
+#: classes/columns.php:221
+msgid "drag and drope"
+msgstr ""
+
+#: classes/columns.php:254
+msgid "not selected"
+msgstr ""
+
+#: classes/columns.php:279
+msgid "no fields found"
+msgstr ""
+
+#: classes/columns.php:285
+#, php-format
+msgid "Table: %s. Field: %s"
+msgstr ""
+
+#: classes/columns.php:292
+msgid "edit"
+msgstr ""
+
+#: classes/columns.php:300 classes/tables-meta.php:385
+#: classes/vocabulary.php:189
+msgid "delete"
+msgstr ""
+
+#: classes/columns.php:338
+msgid "search by column title"
+msgstr ""
+
+#: classes/columns.php:423
+msgid "New Column"
+msgstr ""
+
+#: classes/tables-meta.php:49
+msgid "Ascending"
+msgstr ""
+
+#: classes/tables-meta.php:50
+msgid "Descending"
+msgstr ""
+
+#: classes/tables-meta.php:269
+msgid "Meta key"
+msgstr ""
+
+#: classes/tables-meta.php:274 profiles/woocommerce/woocommerce.php:1594
+msgid "Type"
+msgstr ""
+
+#: classes/tables-meta.php:368
+msgid "not defined"
+msgstr ""
+
+#: classes/tables-meta.php:369
+msgid "text"
+msgstr ""
+
+#: classes/tables-meta.php:370
+msgid "number"
+msgstr ""
+
+#: classes/tables-meta.php:371
+msgid "calendar"
+msgstr ""
+
+#: classes/tables-meta.php:450
+msgid "0 write key here"
+msgstr ""
+
+#: classes/tables-options.php:203
+msgid "Per page default"
+msgstr ""
+
+#: classes/tables-options.php:206
+msgid "How many products per page display in the table by default. Example: 10"
+msgstr ""
+
+#: classes/tables-options.php:210
+msgid "Per page values"
+msgstr ""
+
+#: classes/tables-options.php:213
+msgid ""
+"Values displayed in the per-page drop-down. Example: 10,20,30,40,50,60,70,80,"
+"90,100"
+msgstr ""
+
+#: classes/tables-options.php:217
+msgid "Pagination position"
+msgstr ""
+
+#: classes/tables-options.php:221 classes/tables-options.php:235
+msgid "Top and Bottom"
+msgstr ""
+
+#: classes/tables-options.php:222 classes/tables-options.php:236
+msgid "Top"
+msgstr ""
+
+#: classes/tables-options.php:223 classes/tables-options.php:237
+msgid "Bottom"
+msgstr ""
+
+#: classes/tables-options.php:224 classes/tables-options.php:238
+msgid "None"
+msgstr ""
+
+#: classes/tables-options.php:227
+msgid "Set none to hide pagination"
+msgstr ""
+
+#: classes/tables-options.php:231
+msgid "Per page drop-down position"
+msgstr ""
+
+#: classes/tables-options.php:241
+msgid "Set none to hide drop-down"
+msgstr ""
+
+#: classes/tables-options.php:245
+msgid "Default order by"
+msgstr ""
+
+#: classes/tables-options.php:250
+msgid "How to order products after table initialization"
+msgstr ""
+
+#: classes/tables-options.php:254
+msgid "Default order"
+msgstr ""
+
+#: classes/tables-options.php:262
+msgid "Products order direction"
+msgstr ""
+
+#: classes/tables-options.php:266
+msgid "Use flying header"
+msgstr ""
+
+#: classes/tables-options.php:269
+msgid ""
+"Flying header while table scrolling. Disabled in the compact view mode on "
+"the mobile devices"
+msgstr ""
+
+#: classes/tables-options.php:273
+msgid "Show print button"
+msgstr ""
+
+#: classes/tables-options.php:276
+msgid "Show print button to print table current page"
+msgstr ""
+
+#: classes/tables-options.php:280
+msgid "Show search by title"
+msgstr ""
+
+#: classes/tables-options.php:283
+#, php-format
+msgid ""
+"Show search by product title textinput. To make it works with product "
+"content text and product excerpt text use shortcode attributes %s"
+msgstr ""
+
+#: classes/tables-options.php:290
+msgid "Min symbols count"
+msgstr ""
+
+#: classes/tables-options.php:293
+msgid "Minimum symbols for search by title when search is possible"
+msgstr ""
+
+#: classes/tables-options.php:297
+msgid "Search by title placeholder"
+msgstr ""
+
+#: classes/tables-options.php:300
+msgid "Text of placeholder for the search by title input"
+msgstr ""
+
+#: classes/tables-options.php:304
+msgid "Hide filter form"
+msgstr ""
+
+#: classes/tables-options.php:307
+msgid ""
+"Hide filter form, and show it by button click. Useful if the filter form is "
+"quite big"
+msgstr ""
+
+#: classes/tables-options.php:311
+msgid "Disable filter form"
+msgstr ""
+
+#: classes/tables-options.php:314
+msgid "Switch off filter form"
+msgstr ""
+
+#: classes/tables-options.php:318
+msgid "Use load more button"
+msgstr ""
+
+#: classes/tables-options.php:319 profiles/woocommerce/woocommerce.php:403
+msgid "premium version"
+msgstr ""
+
+#: classes/tables-options.php:322
+msgid ""
+"Use load more button instead of pagination. If it is activated, pagination "
+"and per-page drop-down will be hidden"
+msgstr ""
+
+#: classes/tables-options.php:326
+msgid "Post statuses"
+msgstr ""
+
+#: classes/tables-options.php:335
+msgid ""
+"Use some post statuses on the same time or select one. Publish status is by "
+"default."
+msgstr ""
+
+#: classes/tables-options.php:339
+msgid "Disable columns order-by"
+msgstr ""
+
+#: classes/tables-options.php:348
+msgid ""
+"Disable columns data ordering on the site front in the columns where it is "
+"possible"
+msgstr ""
+
+#: classes/tables-options.php:352
+msgid "Compact view width"
+msgstr ""
+
+#: classes/tables-options.php:355
+msgid ""
+"For small mobile devices. Here you can set window width less of which the "
+"table will be displayed in compact mode. Example: 500. To disable this "
+"behaviour set -1"
+msgstr ""
+
+#: classes/tables-options.php:359
+msgid "Table custom HTML ID"
+msgstr ""
+
+#: classes/tables-options.php:362
+msgid ""
+"Attach to table constant html id which you can use for targeted CSS "
+"customizations. Remember that ID should be unique! If you not understand it -"
+" leave this field empty."
+msgstr ""
+
+#: classes/tables-options.php:366
+msgid "Display cell info"
+msgstr ""
+
+#: classes/tables-options.php:369
+msgid "Display cell info on its mouse hover"
+msgstr ""
+
+#: classes/filter.php:229
+#, php-format
+msgid "From: %s"
+msgstr ""
+
+#: classes/filter.php:230
+#, php-format
+msgid "To: %s"
+msgstr ""
+
+#: classes/tables.php:64
+msgid "Thumb"
+msgstr ""
+
+#: classes/tables.php:76
+msgid "Shortcode"
+msgstr ""
+
+#: classes/tables.php:80
+msgid "Published"
+msgstr ""
+
+#: classes/tables.php:84
+msgid "Skin"
+msgstr ""
+
+#: classes/tables.php:125 classes/tables.php:232
+msgid "New Table"
+msgstr ""
+
+#: classes/tables.php:135 profiles/woocommerce/woocommerce.php:912
+msgid "Price"
+msgstr ""
+
+#: classes/tables.php:136 profiles/woocommerce/woocommerce.php:1081
+msgid "Gallery"
+msgstr ""
+
+#: classes/tables.php:137 profiles/woocommerce/woocommerce.php:1776
+msgid "Cart"
+msgstr ""
+
+#: classes/tables.php:237
+#, php-format
+msgid "%s (clone)"
+msgstr ""
+
+#: classes/tables.php:333
+msgid "table options"
+msgstr ""
+
+#: classes/tables.php:337
+msgid "clone table"
+msgstr ""
+
+#: classes/tables.php:342
+msgid "delete table"
+msgstr ""
+
+#: classes/columns-fields-options.php:162
+#: classes/columns-fields-options.php:180
+msgid "Display as text"
+msgstr ""
+
+#: classes/columns-fields-options.php:164
+msgid ""
+"If enabled, taxonomy terms will be displayed as text. By default: links."
+msgstr ""
+
+#: classes/columns-fields-options.php:182
+msgid "Display as text instead of link to the product"
+msgstr ""
+
+#: classes/columns-fields-options.php:197
+msgid "Show labels"
+msgstr ""
+
+#: classes/columns-fields-options.php:199
+msgid ""
+"If enabled in the title cell will be able to shown such labels as: featured, "
+"on sale, out of stock"
+msgstr ""
+
+#: classes/columns-fields-options.php:223
+msgid "Thumbnail width (px)"
+msgstr ""
+
+#: classes/columns-fields-options.php:238
+msgid "Preview on hover"
+msgstr ""
+
+#: classes/columns-fields-options.php:247
+msgid ""
+"Width of the preview when mouse hover on the thumbnail (px). Set -1 to "
+"disable."
+msgstr ""
+
+#: classes/columns-fields-options.php:256
+msgid "Font size"
+msgstr ""
+
+#: classes/columns-fields-options.php:265
+msgid "Example: 16px OR 1.2em"
+msgstr ""
+
+#: classes/columns-fields-options.php:278
+msgid "Font family"
+msgstr ""
+
+#: classes/columns-fields-options.php:285
+msgid "The column text font family. Include them in the tab Settings!"
+msgstr ""
+
+#: classes/columns-fields-options.php:294
+msgid "Color"
+msgstr ""
+
+#: classes/columns-fields-options.php:303
+msgid "Example: #00ff00"
+msgstr ""
+
+#: classes/columns-fields-options.php:312
+msgid "Background"
+msgstr ""
+
+#: classes/columns-fields-options.php:321
+msgid "Example: #000000 OR https://__IMG_URL__"
+msgstr ""
+
+#: classes/columns-fields-options.php:330
+msgid "Hide on small screen"
+msgstr ""
+
+#: classes/columns-fields-options.php:339
+msgid ""
+"If you want to hide this column on small screens, set here width, lower "
+"which its will be hidden. Example: 500. Leave it empty to disable."
+msgstr ""
+
+#: classes/filter-fields-options.php:132
+msgid "Filter element title"
+msgstr ""
+
+#: classes/filter-fields-options.php:141
+msgid "Placeholder"
+msgstr ""
+
+#: classes/filter-fields-options.php:149
+msgid "Input placeholder"
+msgstr ""
+
+#: classes/filter-fields-options.php:158
+msgid "Minlength"
+msgstr ""
+
+#: classes/filter-fields-options.php:166
+msgid "Input minlength"
+msgstr ""
+
+#: classes/filter-fields-options.php:175
+msgid "Min"
+msgstr ""
+
+#: classes/filter-fields-options.php:183 classes/filter-fields-options.php:200
+msgid ""
+"Set custom min value. By default value is -1 and auto definition through "
+"database will be applied."
+msgstr ""
+
+#: classes/filter-fields-options.php:192
+msgid "Max"
+msgstr ""
+
+#: classes/filter-fields-options.php:217
+msgid "Container width. By default is 100%. Example: 50%, 150px"
+msgstr ""
+
+#: classes/filter-fields-options.php:226
+msgid "Data type"
+msgstr ""
+
+#: classes/filter-fields-options.php:237
+#, php-format
+msgid "In ACF is used %s data type"
+msgstr ""
+
+#: classes/filter-fields-options.php:250
+msgid "MultiSelect"
+msgstr ""
+
+#: classes/filter-fields-options.php:252
+msgid "Display as multi-select"
+msgstr ""
+
+#: classes/filter-fields-options.php:261
+msgid "Logic"
+msgstr ""
+
+#: classes/filter-fields-options.php:272
+msgid "Logic of the selected terms. Mainly for multi-select."
+msgstr ""
+
+#: classes/filter-fields-options.php:281
+msgid "Exclude"
+msgstr ""
+
+#: classes/filter-fields-options.php:290
+msgid ""
+"Using comma, write terms ids you want to exclude from the filter. Leave "
+"empty to disable."
+msgstr ""
+
+#: classes/filter-fields-options.php:299
+msgid "Include"
+msgstr ""
+
+#: classes/filter-fields-options.php:308
+msgid ""
+"Using comma, write terms ids you want to see in the filter, another ones "
+"will not be displayed. Leave empty to disable."
+msgstr ""
+
+#: classes/vocabulary.php:75
+msgid "Key Word"
+msgstr ""
+
+#: classes/vocabulary.php:130
+msgid "search by keyword"
+msgstr ""
+
+#: classes/vocabulary.php:246
+msgid "new translate"
+msgstr ""
+
+#: views/options.php:32
+#, php-format
+msgid "WOOT - WooCommerce Active Products Tables v.%s"
+msgstr ""
+
+#: views/options.php:33
+#, php-format
+msgid "Actualized for WooCommerce v.%s"
+msgstr ""
+
+#: views/options.php:45
+msgid "Tables"
+msgstr ""
+
+#: views/options.php:54
+msgid "Settings"
+msgstr ""
+
+#: views/options.php:63
+msgid "Vocabulary"
+msgstr ""
+
+#: views/options.php:87
+msgid "Create table"
+msgstr ""
+
+#: views/options.php:98
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: views/options.php:114 views/options.php:368
+#, php-format
+msgid "In free version is possible to display only first %s columns!"
+msgstr ""
+
+#: views/options.php:122
+msgid "Info data: All possible columns keys for [woot] shortcode attributes"
+msgstr ""
+
+#: views/options.php:122
+msgid "All possible columns keys"
+msgstr ""
+
+#: views/options.php:123
+msgid "Export WOOT Data"
+msgstr ""
+
+#: views/options.php:124
+msgid "Import WOOT Data"
+msgstr ""
+
+#: views/options.php:132
+#, php-format
+msgid ""
+"This vocabulary is not for interface words, which you can translate for "
+"example by %s, but for the arbitrary words which you applied in the tables "
+"columns. Taxonomies terms also possible to translate here, to display them "
+"in the WOOT tables."
+msgstr ""
+
+#: views/options.php:142
+msgid "Create"
+msgstr ""
+
+#: views/options.php:163
+msgid "You can do next ..."
+msgstr ""
+
+#: views/options.php:185
+msgid "FAQ"
+msgstr ""
+
+#: views/options.php:192
+msgid "Codex"
+msgstr ""
+
+#: views/options.php:199
+msgid "Video"
+msgstr ""
+
+#: views/options.php:206
+msgid "Make skins"
+msgstr ""
+
+#: views/options.php:213
+msgid "Support"
+msgstr ""
+
+#: views/options.php:219
+msgid "Extensions for WOOT"
+msgstr ""
+
+#: views/options.php:228
+msgid "Favourites"
+msgstr ""
+
+#: views/options.php:234
+msgid "Compare"
+msgstr ""
+
+#: views/options.php:240
+msgid "Attachments"
+msgstr ""
+
+#: views/options.php:252
+msgid "Power your store"
+msgstr ""
+
+#: views/options.php:308
+msgid "Columns"
+msgstr ""
+
+#: views/options.php:317
+msgid "Meta"
+msgstr ""
+
+#: views/options.php:327
+msgid "Filter"
+msgstr ""
+
+#: views/options.php:336
+msgid "Predefinition"
+msgstr ""
+
+#: views/options.php:345
+msgid "Custom CSS"
+msgstr ""
+
+#: views/options.php:354
+msgid "Options"
+msgstr ""
+
+#: views/options.php:376
+msgid "Prepend column"
+msgstr ""
+
+#: views/options.php:390
+msgid "Append column"
+msgstr ""
+
+#: views/options.php:406
+#, php-format
+msgid ""
+"You can use custom CSS for small changes, but for quite big the table "
+"restyling its recommended to use %s. Use hotkey combination CTRL+S for CSS "
+"code saving!"
+msgstr ""
+
+#: views/options.php:409
+msgid "table skins"
+msgstr ""
+
+#: views/options.php:429
+#, php-format
+msgid ""
+"If to use sorting by meta keys - will be visible only products which has any "
+"value for the selected meta key. %s"
+msgstr ""
+
+#: views/options.php:432 views/options.php:468
+msgid "Read more here"
+msgstr ""
+
+#: views/options.php:440
+msgid "Add meta field"
+msgstr ""
+
+#: views/options.php:449
+#, php-format
+msgid "Also for products filtration you can use %s filter!"
+msgstr ""
+
+#: views/options.php:457
+#, php-format
+msgid "In free version is possible to display only first %s items!"
+msgstr ""
+
+#: views/options.php:465
+#, php-format
+msgid ""
+"Here you can set rules about what products to display in the table. The "
+"filtration will work with the predefined products as with basic ones. %s."
+msgstr ""
+
+#: views/options.php:480 views/popup.php:25
+msgid "Close"
+msgstr ""
+
+#: views/options.php:481
+msgid "Apply"
+msgstr ""
+
+#: views/table.php:96
+msgid "Sorted by table"
+msgstr ""
+
+#: views/table.php:116
+#, php-format
+msgid "Table %s is not active!"
+msgstr ""
+
+#: lib/helper.php:377
+msgid "January"
+msgstr ""
+
+#: lib/helper.php:378
+msgid "February"
+msgstr ""
+
+#: lib/helper.php:379
+msgid "March"
+msgstr ""
+
+#: lib/helper.php:380
+msgid "April"
+msgstr ""
+
+#: lib/helper.php:381 lib/helper.php:395
+msgid "May"
+msgstr ""
+
+#: lib/helper.php:382
+msgid "June"
+msgstr ""
+
+#: lib/helper.php:383
+msgid "July"
+msgstr ""
+
+#: lib/helper.php:384
+msgid "August"
+msgstr ""
+
+#: lib/helper.php:385
+msgid "September"
+msgstr ""
+
+#: lib/helper.php:386
+msgid "October"
+msgstr ""
+
+#: lib/helper.php:387
+msgid "November"
+msgstr ""
+
+#: lib/helper.php:388
+msgid "December"
+msgstr ""
+
+#: lib/helper.php:391
+msgid "Jan"
+msgstr ""
+
+#: lib/helper.php:392
+msgid "Feb"
+msgstr ""
+
+#: lib/helper.php:393
+msgid "Mar"
+msgstr ""
+
+#: lib/helper.php:394
+msgid "Apr"
+msgstr ""
+
+#: lib/helper.php:396
+msgid "Jun"
+msgstr ""
+
+#: lib/helper.php:397
+msgid "Jul"
+msgstr ""
+
+#: lib/helper.php:398
+msgid "Aug"
+msgstr ""
+
+#: lib/helper.php:399
+msgid "Sep"
+msgstr ""
+
+#: lib/helper.php:400
+msgid "Oct"
+msgstr ""
+
+#: lib/helper.php:401
+msgid "Nov"
+msgstr ""
+
+#: lib/helper.php:402
+msgid "Dec"
+msgstr ""
+
+#: lib/helper.php:405
+msgid "Mo"
+msgstr ""
+
+#: lib/helper.php:406
+msgid "Tu"
+msgstr ""
+
+#: lib/helper.php:407
+msgid "We"
+msgstr ""
+
+#: lib/helper.php:408
+msgid "Th"
+msgstr ""
+
+#: lib/helper.php:409
+msgid "Fr"
+msgstr ""
+
+#: lib/helper.php:410
+msgid "Sa"
+msgstr ""
+
+#: lib/helper.php:411
+msgid "Su"
+msgstr ""
+
+#: lib/rate_alert.php:66
+msgid "support"
+msgstr ""
+
+#: lib/rate_alert.php:82
+msgid "Nope, maybe later!"
+msgstr ""
+
+#: lib/rate_alert.php:86
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: lib/rate_alert.php:90
+msgid "Thank you, I did it!"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-grouped.php:20
+msgid "Grouped columns"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-single.php:38
+#: profiles/woocommerce/woocommerce.php:721
+msgid "Single"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-single.php:48
+msgid ""
+"Columns for table Single and shortcode [woot_single]. Press and wait to "
+"reorder."
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-single.php:123
+#, php-format
+msgid "Product #%s does not exists!"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:69
+msgid "Quantity"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:91
+msgid "individually 1"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:96
+msgid "Subtotal"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:127
+msgid "Hide shop cart button"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:129
+msgid "Hide shop cart button on WOOT Cart panel"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:134
+msgid "Hide checkout button"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:136
+msgid "Hide checkout button on WOOT Cart panel"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:152
+msgid "Shop cart columns"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cart.php:162
+msgid "Columns of WOOT shop cart. Press and wait to reorder."
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-variations.php:20
+msgid "Variations columns"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:304
+msgid "Sort by popularity"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:305
+msgid "Sort by average rating"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:306
+msgid "Sort by latest"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:307
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:308
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:309
+msgid "Sort by name A-Z"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:310
+msgid "Sort by name Z-A"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:311
+msgid "SKU: Ascending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:312
+msgid "SKU: Descending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:313
+msgid "Stock Quantity: Ascending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:314
+msgid "Stock Quantity: Descending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:315
+msgid "Total Sales: Ascending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:316
+msgid "Total Sales: Descending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:317
+msgid "Number of Comments: Ascending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:318
+msgid "Number of Comments: Descending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:319
+msgid "Last Modified Date: Oldest to Newest"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:320
+msgid "Last Modified Date: Newest to Oldest"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:321
+msgid "Sort by menu order"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:322
+msgid "Sales products first"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:324
+msgid "Sort by availability"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:325
+msgid "Sort by random"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:326
+msgid "Sort by product ID: Ascending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:327
+msgid "Sort by product ID: Descending"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:345
+msgid "Show Sorting Dropdown"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:348
+msgid "Displays Sorting Dropdown list"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:353
+msgid "Sorting Dropdown Fields"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:362
+msgid ""
+"fields which you want to see in Sorting Dropdown fields. Press and wait to "
+"reorder."
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:367
+msgid "Show shop cart"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:370
+msgid ""
+"Displays cart as button with information, on click popup with selected "
+"products appears"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:375
+msgid "Cart/Sorting positions"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:379
+msgid "Cart right, Sorting dropdown left"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:380
+msgid "Cart left, Sorting dropdown right"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:383
+msgid ""
+"On which side should be shop cart: be left or right. Sorting Dropdown will "
+"take opposite position."
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:388
+msgid "After to cart adding"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:392
+msgid "Stay on the same page"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:393
+msgid "Redirect to the cart page"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:394
+msgid "Redirect to the checkout page"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:397
+msgid "Action after clicking on button Add to cart"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:402
+msgid "Hide added to cart products"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:405
+msgid "Do not display in the table products, which are in the cart"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:468
+msgid "ID"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:603
+msgid "featured"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:604
+msgid "on sale"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:605
+msgid "out of stock"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:724
+msgid "Single product data"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:807
+msgid "Post date"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:840
+msgid "Post modified"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:939
+msgid "Regular Price"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:966
+msgid "Sale Price"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:993
+msgid "On Sale"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1027
+msgid "SKU"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1053
+msgid "Downloadable"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1111
+msgid "Weight"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1138
+msgid "Length"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1165
+msgid "Height"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1219
+msgid "Manage stock"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1229
+msgid "Stock status"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1267
+msgid "Stock quantity"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1295
+msgid "Sold individually"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1323
+msgid "Total sales"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1351
+msgid "Reviews count"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1379
+msgid "Tax status"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1386
+#: profiles/woocommerce/woocommerce.php:1420
+#: profiles/woocommerce/woocommerce-reviews.php:35
+msgid "Rating"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1425
+msgid "from 1 to 2"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1429
+msgid "from 2 to 3"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1433
+msgid "from 3 to 4"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1437
+msgid "from 4 to 5"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1441
+msgid "exactly 5"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1448
+msgid "Grouped"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1475
+#, php-format
+msgid "Group[%s]"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1486
+msgid "Upsells"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1512
+#, php-format
+msgid "Upsells[%s]"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1520
+msgid "Cross sells"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1548
+#, php-format
+msgid "Cross[%s]"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1556
+msgid "Variations"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1583
+#, php-format
+msgid "Var.[%s]"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1602
+msgid "Featured"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:2024
+#: profiles/woocommerce/woocommerce.php:2026
+msgid "not exists"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-cross-sells.php:20
+msgid "Cross-sells columns"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-upsells.php:20
+msgid "Upsells columns"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-reviews.php:29
+msgid "User"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-reviews.php:32
+msgid "Comment"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-related.php:20
+msgid "Related columns"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-universal.php:66
+msgid "WOOT: Set product id please in the shortcode attribute!"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce-universal.php:97
+#, php-format
+msgid "Columns for %s and shortcode [%s]. Press and wait to reorder."
+msgstr ""
+
+#: profiles/woocommerce/views/woot_cart.php:19
+msgid "Cart loading"
+msgstr ""
+
+#: profiles/woocommerce/views/reviews.php:38
+#: profiles/woocommerce/views/reviews.php:43
+#, php-format
+msgid "%s reviews"
+msgstr ""
+
+#: profiles/woocommerce/views/woot_drop_down.php:13
+msgid "WOOT: Premium feature"
+msgstr ""
+
+#: profiles/woocommerce/views/woot_drop_down.php:13
+msgid "see details"
+msgstr ""
+
+#. Name of the plugin
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce plugin for displaying shop products in table format. Tables "
+"makes focus for your buyers on the things they want to get, nothing "
+"superfluous, just what the client wants, and full attention to what is "
+"offered!"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://products-tables.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "realmag777"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluginus.net/"
+msgstr ""

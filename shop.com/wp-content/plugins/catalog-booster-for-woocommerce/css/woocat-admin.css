@@ -1,0 +1,40 @@
+/*
+Discounts Gateway styling
+    Created on : May 4, 2015, 5:22:43 PM
+    Author     : impleCode
+    http://implecode.com/wordpress/plugins/scheduled-discounts/
+*/
+
+.al-box.warning, #content .boxed #product_details > div.al-box.warning {
+    background-color: #fefccb;
+    background-image: url('images/warning.png');
+}
+
+.al-box.info, #content .boxed #product_details > div.al-box.info {
+    background-color: #dbecff;
+    background-image: url('images/info.png');
+}
+
+.al-box.plus, #content .boxed #product_details > div.al-box.plus {
+    background-color: #e1f3c1;
+    background-image: url('images/plus.png');
+}
+
+.al-box.success, #content .boxed #product_details > div.al-box.success {
+    background-color: #e1f3c1;
+    background-image: url('images/success.png');
+}
+
+.al-box, .al-box.success, #integration_wizard .al-box, #content .boxed #product_details > div.al-box {
+    background-repeat: no-repeat;
+    background-position: 1%;
+    padding: 10px 10px 10px 60px;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+    position: relative;
+    display: inline-block;
+    max-width: 509px;
+    box-shadow: 0 0 1px 1px #444;
+    box-sizing: border-box;
+    line-height: 1.2;
+}

@@ -1,0 +1,227 @@
+#ivole_trustbadge_admin { display: block; }
+#ivole_trustbadge_admin.ivole-trustbadge-sl, #ivole_trustbadge_admin.ivole-trustbadge-slp, #ivole_trustbadge_admin.ivole-trustbadge-sd, #ivole_trustbadge_admin.ivole-trustbadge-sdp {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#ivole_trustbadge_admin.ivole-trustbadge-sl, #ivole_trustbadge_admin.ivole-trustbadge-slp {background-color: #FFFFFF; border: 1px solid #A3D8CD; width:556px; max-width: 100%; }
+#ivole_trustbadge_admin.ivole-trustbadge-sd, #ivole_trustbadge_admin.ivole-trustbadge-sdp {background-color: #3D3D3D; border: 1px solid #8B8B8B; width:556px; max-width: 100%; }
+#ivole_trustbadge_admin.ivole-trustbadge-wl {background-color: #FFFFFF; width:500px; max-width: 100%; }
+#ivole_trustbadge_admin.ivole-trustbadge-wlp {background-color: #FFFFFF; width:790px; max-width: 100%; }
+#ivole_trustbadge_admin.ivole-trustbadge-wd {background-color: #003640; width:500px; max-width: 100%; }
+#ivole_trustbadge_admin.ivole-trustbadge-wdp {background-color: #003640; width:790px; max-width: 100%; }
+#ivole_trustbadge_admin.ivole-trustbadge-vsl, #ivole_trustbadge_admin.ivole-trustbadge-vsd {width:500px; max-width: 100%; border-radius: 15px; filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.25));}
+#ivole_trustbadge_admin.ivole-trustbadge-vsl {background-color: #FFFFFF; border: 1px solid #DFDFDF;}
+#ivole_trustbadge_admin.ivole-trustbadge-vsd {background-color: #373737; border: 1px solid #373737;}
+table.ivole-field-map {width: auto;}
+table.ivole-field-map thead tr th {padding: 8px 10px;}
+p.ivole-reply-published-cr-c .dashicons {font-size:13px; width:13px; height:13px; line-height:1.5;}
+table.cr-product-feed-categories {table-layout: fixed;}
+table.cr-product-feed-categories th.cr-product-feed-categories-th {padding: 1em;}
+table.cr-product-feed-categories td.cr-product-feed-categories-td {padding: 1em;}
+table.cr-product-feed-categories td.cr-product-feed-categories-td .select2-container {min-width: auto!important;}
+table.cr-product-feed-categories tr.cr-alternate {background-color: #f9f9f9;}
+img.cr-product-feed-categories-ext-icon {height:11px; margin-left:5px;}
+.select2-selection--single {height: 100% !important;}
+.select2-selection__rendered {word-wrap: break-word !important; text-overflow: inherit !important; white-space: normal !important;}
+.ivole-new-settings table.wc_status_table.cr-product-feed-status td:first-child {width: auto;}
+span#ivole_email_from_verify_status { margin-left: 10px; margin-right: 10px; }
+td.forminp p.cr-admin-shortcodes {margin-top: 0.8em;}
+td.forminp .cr-admin-shortcodes-large {margin-top: 1.5em;}
+td.forminp .cr-admin-shortcodes-large code {font-size: 1.2em;}
+td.forminp.cr-admin-shortcodes-td ul {line-height: 1.6em;}
+.cr-reviews-list-table .column-qna_type {width: 22px;}
+.cr-reviews-list-table #the-comment-list .column-qna_type {vertical-align: middle;}
+.cr-upload-local-images label {display: block; margin-bottom: 6px; padding: 3px 5px;}
+.cr-upload-local-images label.cr-upload-local-images-status-error {background-color: #FF4136;}
+.cr-upload-local-images label.cr-upload-local-images-status-warning {background-color: #FFDC00;}
+.cr-upload-local-images label.cr-upload-local-images-status-ok {background-color: #46B450;}
+.cr-comment-images .cr-comment-images-clear {clear: both;}
+.cr-comment-images .cr-comment-image-close {
+	display: block;
+	background-color: #DC3232;
+	border: 0px solid;
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	padding: 1px;
+	line-height: 0;
+	cursor: pointer;
+}
+.cr-comment-images .cr-comment-image-close span.dashicons {
+	display: block;
+	width: 18px;
+	height: 18px;
+	font-size: 18px;
+	color: #ffffff;
+}
+.cr-comment-images .cr-comment-image .cr-comment-image-detach,
+.cr-comment-images .cr-comment-video .cr-comment-image-detach {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid transparent;
+}
+.cr-comment-images .cr-comment-image .cr-comment-image-detach.cr-comment-image-detach-active,
+.cr-comment-images .cr-comment-video .cr-comment-image-detach.cr-comment-image-detach-active {
+	border: 1px solid #DC3232;
+}
+.cr-comment-images .cr-comment-image .cr-comment-image-detach .cr-comment-image-detach-controls,
+.cr-comment-images .cr-comment-video .cr-comment-image-detach .cr-comment-image-detach-controls {
+	position: absolute;
+	display: none;
+}
+.cr-comment-images .cr-comment-image .cr-comment-image-detach .cr-comment-image-detach-controls p,
+.cr-comment-images .cr-comment-video .cr-comment-image-detach .cr-comment-image-detach-controls p {
+	margin: 0.5em 0;
+	text-align: center;
+}
+.cr-comment-images .cr-comment-image .cr-comment-image-detach .cr-comment-image-detach-controls span,
+.cr-comment-images .cr-comment-video .cr-comment-image-detach .cr-comment-image-detach-controls span {
+	margin: 0 10px;
+	text-decoration: underline;
+}
+.cr-comment-images .cr-comment-image .cr-comment-image-detach .cr-comment-image-detach-controls span:hover,
+.cr-comment-images .cr-comment-video .cr-comment-image-detach .cr-comment-image-detach-controls span:hover {
+	cursor: pointer;
+}
+.cr-comment-images .cr-comment-image .cr-comment-image-detach .cr-comment-image-detach-controls .cr-comment-image-detach-spinner,
+.cr-comment-images .cr-comment-video .cr-comment-image-detach .cr-comment-image-detach-controls .cr-comment-image-detach-spinner {
+	margin: 10px auto;
+	background: url(../img/spinner-2x.gif) no-repeat;
+	background-size: 20px 20px;
+	width: 20px;
+	height: 20px;
+	display: none;
+	text-decoration: none;
+}
+.cr-upload-local-images-btn-disable {
+	cursor: not-allowed;
+	pointer-events: none;
+}
+.cr-reviews-list-table .cr-featured-badge-admin {
+	margin: 0.6em 0;
+}
+.cr-reviews-list-table .cr-featured-badge-admin.cr-featured-badge-admin-hidden {
+	display: none;
+}
+.cr-reviews-list-table .cr-featured-badge-admin span {
+	text-transform: uppercase;
+	display: inline-block;
+	font-size: 12px;
+	-moz-box-shadow: inset 0px 1px 0px 0px #fff6af;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #fff6af;
+	box-shadow: inset 0px 1px 0px 0px #fff6af;
+	background-color: #ffec64;
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+	border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-bottomright: 3px;
+	border-bottom-right-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	border-bottom-left-radius: 3px;
+	text-indent:0;
+	border: 1px solid #ffaa22;
+	color: #333333;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 20px;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 0px 1px 0px #ffee66;
+	padding: 0px 5px;
+}
+.cr-reviews-list-table .cr-feature-review-link.cr-feature-review-link-disabled {
+	cursor: not-allowed;
+	pointer-events: none;
+	opacity: 0.6;
+}
+#replysubmit .cr-replysubmitcancel{
+	line-height: 30px;
+	margin-bottom: 0px;
+}
+.cr-coupon-tiers-table .cr-coupon-tiers-table-th {
+	padding: 1em 0 1em 10px;
+	width: 25%;
+}
+table.cr-coupon-tiers-table td.cr-coupon-tiers-table-td .select2-container {
+	min-width: auto!important;
+}
+table.cr-coupon-tiers-table tr.cr-alternate {
+	background-color: #f9f9f9;
+}
+table.cr-coupon-tiers-table tr.cr-coupon-section td {
+	border-top: 1px solid rgb(195,196,199);
+	border-bottom: 1px solid rgb(195,196,199);
+	font-weight: bold;
+}
+table.cr-coupon-tiers-table tr td.cr-no-coupon .cr-any-coupon,
+table.cr-coupon-tiers-table tr td.cr-no-coupon .cr-existing-coupon,
+table.cr-coupon-tiers-table tr td.cr-no-coupon .cr-new-coupon,
+table.cr-coupon-tiers-table tr td.cr-new-coupon .cr-existing-coupon,
+table.cr-coupon-tiers-table tr td.cr-existing-coupon .cr-new-coupon {
+	display: none;
+}
+table.cr-coupon-tiers-table tr td.cr-no-coupon .cr-option-not-available.cr-any-coupon,
+table.cr-coupon-tiers-table tr td.cr-no-coupon .cr-option-not-available.cr-existing-coupon,
+table.cr-coupon-tiers-table tr td.cr-no-coupon .cr-option-not-available.cr-new-coupon,
+table.cr-coupon-tiers-table tr td.cr-new-coupon .cr-option-not-available.cr-existing-coupon,
+table.cr-coupon-tiers-table tr td.cr-existing-coupon .cr-option-not-available.cr-new-coupon {
+	display: block;
+}
+table.cr-coupon-tiers-table tr td.cr-new-coupon .cr-option-not-available.cr-any-coupon,
+table.cr-coupon-tiers-table tr td.cr-new-coupon .cr-option-not-available.cr-new-coupon,
+table.cr-coupon-tiers-table tr td.cr-existing-coupon .cr-option-not-available.cr-any-coupon,
+table.cr-coupon-tiers-table tr td.cr-existing-coupon .cr-option-not-available.cr-existing-coupon {
+	display: none;
+}
+table.cr-coupon-tiers-table tr td .cr-option-not-available {
+	font-style: italic;
+	font-size: 0.9em;
+	max-width: 250px;
+}
+table.cr-coupon-tiers-table tr td.cr-coupon-tiers-table-td .cr-coupon-tiers-table-select,
+table.cr-coupon-tiers-table tr td.cr-coupon-tiers-table-td input[type=text],
+table.cr-coupon-tiers-table tr td.cr-coupon-tiers-table-td input[type=number] {
+	width: 250px;
+}
+.cr-notice-auto-download {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.cr-notice-auto-download p {
+	margin-right: 12px;
+}
+.cr-notice-auto-download .cr-button-auto-download {
+	height: 30px;
+	margin: 7px;
+}
+.form-table td p.cr-trustbadge-desc {
+	margin-bottom: 1em;
+}
+@media all and (min-width: 700px) {
+	.cr-admin-settings-wide-text {
+		min-width: 600px;
+	}
+}
+@media all and (max-width: 782px) {
+	.woocommerce table.form-table th label+span.woocommerce-help-tip {
+		top: 13px;
+	}
+	input#ivole_test_email_button {
+		margin-top: 10px;
+	}
+	span#ivole_email_from_verify_status {
+		margin-top: 10px;
+		margin-left: 0px;
+	}
+	.cr-reviews-list-table .column-qna_type {display: none;}
+	.cr-reviews-list-table #the-comment-list .column-qna_type {display: none!important;}
+}

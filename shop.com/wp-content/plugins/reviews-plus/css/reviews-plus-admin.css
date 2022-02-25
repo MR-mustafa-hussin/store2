@@ -1,0 +1,132 @@
+/*
+ * Product Reviews
+ * http://impleCode.com
+ *
+ * Copyright 2015 impleCode
+ * Free to use under the GPLv3 license.
+ * http://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * Contributing author: Norbert Dreszer
+ */
+th#rating {
+    width: 110px
+}
+td.column-rating, .fixed td.column-rating {
+    width: 120px
+}
+.review-rating > span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+}
+.review-rating > span.rating-on:before {
+    font-family: "dashicons";
+    content: "\f155";
+}
+.review-rating > span.rating-off:before {
+    font-family: "dashicons";
+    content: "\f154";
+}
+
+.review-rating.allow-edit > span {
+    cursor: pointer;
+}
+
+.review-rating.allow-edit > span:hover:before, .review-rating > span.rating-on:before {
+    content: "\f155";
+}
+
+#replyrow p.review-rating, #replyrow p.rating-label {
+    display:inline-block;
+    vertical-align: top;
+}
+
+.review-reply .review-rating {
+    display: none;
+}
+
+#ic_review_metabox label {
+    min-width: 71px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+}
+
+#ic_review_metabox .review-rating > span:before {
+    vertical-align: middle;
+}
+
+.widefat.reviews .column-comment p {
+    margin: 0 0 .6em 0;
+}
+
+.inline-edit-row .rating-container p {
+    margin: 0;
+}
+
+.inline-edit-row .review-rating > span:before, #replyrow.inline-edit-row .rating-container label {
+    vertical-align: middle;
+}
+
+#replyrow.inline-edit-row .rating-container {
+    padding-top: 6px;
+}
+.column-rating .review-title {
+    text-align:left;
+    font-weight:bold;
+}
+
+.ic-revs-translate .dashicons-no {
+    cursor: pointer;
+}
+
+.al-box.warning {
+    background-color: #fefccb;
+    background-image: url('images/warning.png');
+}
+
+.al-box.info {
+    background-color: #dbecff;
+    background-image: url('images/info.png');
+}
+
+.al-box.plus {
+    background-color: #e1f3c1;
+    background-image: url('images/plus.png');
+}
+
+.al-box.success {
+    background-color: #e1f3c1;
+    background-image: url('images/success.png');
+}
+
+.al-box {
+    background-repeat: no-repeat;
+    background-position: 1%;
+    padding: 10px 10px 10px 60px;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+    position: relative;
+    display: inline-block;
+    max-width: 509px;
+    box-shadow: 0 0 1px 1px #444;
+    box-sizing: border-box;
+    line-height: 1.2;
+}
+
+#product_reviews .al-box p {
+    margin-bottom: 0;
+}
+
+.al-box p {
+    margin-bottom: 0;
+}
+
+.al-box p:first-of-type {
+    margin-top: 0;
+}
+
+.plugin-logo {
+    text-align: right;
+}

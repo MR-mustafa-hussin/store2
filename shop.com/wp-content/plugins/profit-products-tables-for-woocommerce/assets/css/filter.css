@@ -1,0 +1,150 @@
+.woot-filter-list{
+    clear: both;
+    margin-bottom: 1px;
+    /* overflow: hidden; */
+}
+
+.woot-filter-list > div{
+    float: left;
+    margin-bottom: 7px;
+}
+
+.woot-text-search{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 7px;
+    border: 1px solid #ccc;
+    border-radius: 0;
+    font-family: inherit;
+    padding: 6px;
+    padding: 0.428571429rem;
+    color: #333;
+    font-size: 0.9em;
+}
+
+.woot-woocommerce-text-search-container{
+    clear: both;
+    position: relative;
+    width: 100%;
+    z-index: 99;
+}
+
+
+
+.woot-woocommerce-text-search-container > input {
+    width: 100%;
+    border-radius: 0 !important;
+    margin-bottom: 1px;
+    border: #79b8ff solid 1px;
+    padding: 5px;
+    background: #fff;
+    color: #333;
+    font-size: 14px;
+}
+
+.woot-woocommerce-text-search-container input[type='search']:focus{
+    background-color: #fefefe;
+    outline-color: #7bb8ff;
+}
+
+.woot-woocommerce-text-search-container > input:active{
+    border-radius: 0 !important;
+    background-color: #fefefe !important;
+}
+
+.woot-woocommerce-text-search-wrapper{
+    position: absolute;
+    height: auto;
+    width: 100%;
+    background: #fff;
+}
+
+.woot-woocommerce-text-search-wrapper .woot-text-search{
+    display: none;
+}
+
+.woot-not-ready-text-search{
+    border: dashed 2px red;
+}
+
+.woot-filter-reset{
+    /* background-color: #663399; */
+    display: none;
+    margin: 0;
+    padding: 0 1rem;
+    max-height: 33px;
+    line-height: 32px !important;
+}
+
+.woot-filter-cell-sku{
+    width: 100%;
+    clear: both;
+}
+
+.woot-filter-cell-type-mselect,
+.woot-filter-cell-type-select,
+.woot-filter-cell-type-calendar{
+    min-width: 150px;
+    margin-right: 5px;
+}
+
+.woot-filter-cell-type-select select{
+    width: 100%;
+    clear: both;
+    /* box-shadow: 1px 1px 1px rgba(0,0,0,0.2); */
+    border: 1px solid #c1e1ff;
+    border-radius: 0;
+    font-family: sans-serif;
+    padding: 6px;
+    color: #444;
+    font-size: 13px;
+    max-height: 28px;
+    line-height: 15px;
+    margin-bottom: 0;
+    vertical-align: top;
+}
+
+.woot-filter-cell-type-range_slider{
+    width: 100%;
+    margin-right: 5px;
+    overflow: hidden;
+}
+
+.calendar23-selector{
+    /* box-shadow: 1px 1px 1px rgba(0,0,0,0.2); */
+}
+
+.calendar23-data-input{
+    border-radius: 0 !important;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding: 7px;
+    color: #333;
+}
+
+.woot-filter-navigation{
+    margin-bottom: 9px;
+}
+
+.woot-filter-navigation-label{
+    position: relative;
+    display: inline-block;
+    margin-right: 3px;
+    padding: 1px 16px 1px 4px;
+    background: #e7f3f7;
+    border-radius: 0;
+    border: solid 1px #0090cb;
+    line-height: initial;
+    font-size: 0.8em;
+    cursor: pointer;
+    color: #663399;
+}
+
+.woot-filter-navigation-label:after{
+    font-family: 'woot';
+    content: '\e808';
+    position: absolute;
+    right: 1px;
+    top: 3px;
+    color: #d11111;
+}

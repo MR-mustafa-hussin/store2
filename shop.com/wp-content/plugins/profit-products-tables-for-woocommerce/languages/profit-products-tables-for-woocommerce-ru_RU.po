@@ -1,0 +1,1938 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-04 12:44+0000\n"
+"PO-Revision-Date: 2020-08-04 12:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Language: ru_RU\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: index.php:104
+msgid "Products Tables"
+msgstr "Таблицы продуктов"
+
+#: index.php:105 views/options.php:178
+msgid "Documentation"
+msgstr "Документация"
+
+#: index.php:256 index.php:964 views/popup.php:22 views/table.php:107
+msgid "Loading ..."
+msgstr "Загрузка ..."
+
+#: index.php:257 index.php:965
+msgid "No Data!"
+msgstr "Данных нет!"
+
+#: index.php:258 index.php:273 index.php:966
+msgid "Error!"
+msgstr "Ошибка!"
+
+#: index.php:259
+msgid "Creating"
+msgstr "Создание"
+
+#: index.php:260
+msgid "Created!"
+msgstr "Создано!"
+
+#: index.php:261
+msgid "Saving"
+msgstr "Сохранение"
+
+#: index.php:262
+msgid "Saved!"
+msgstr "Сохранено!"
+
+#: index.php:263
+msgid "Adding"
+msgstr "Добавление"
+
+#: index.php:264
+msgid "Added!"
+msgstr "Добавлено!"
+
+#: index.php:265
+msgid "Deleting"
+msgstr "Удаление"
+
+#: index.php:266
+msgid "Deleted!"
+msgstr "Удалено!"
+
+#: index.php:267
+msgid "Updating"
+msgstr "Обновление"
+
+#: index.php:268
+msgid "Cloning"
+msgstr "Клонирование"
+
+#: index.php:269
+msgid "Cloned!"
+msgstr "Склонировано"
+
+#: index.php:270
+msgid "Are you sure?"
+msgstr "Уверены?"
+
+#: index.php:271
+msgid "Notice!"
+msgstr "Уведомление!"
+
+#: index.php:272
+msgid "Warning!"
+msgstr "Внимание!"
+
+#: index.php:274
+msgid "Adding to cart ..."
+msgstr "Добавление в корзину ..."
+
+#: index.php:275
+msgid "Product added to cart!"
+msgstr "Продукт добавлен в корзину"
+
+#: index.php:276
+msgid "Cart updated!"
+msgstr "Корзина продуктов обновлена"
+
+#: index.php:277
+msgid "In cart"
+msgstr "В корзине"
+
+#: index.php:278
+msgid "Reset"
+msgstr "Обнулить"
+
+#: index.php:279
+msgid "Select table thumbnail"
+msgstr "Выбрать миниатюру таблицы"
+
+#: index.php:280
+msgid "Shortcodes Help"
+msgstr "Справка по шорткодам"
+
+#: index.php:281 classes/columns.php:289 views/options.php:72
+#: views/options.php:291
+msgid "Help"
+msgstr "Помощь"
+
+#: index.php:282 index.php:967
+msgid "Products"
+msgstr "Продукты"
+
+#: index.php:284
+msgid "add selected"
+msgstr "добавить выбранное"
+
+#: index.php:285
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: index.php:286
+msgid "Shop cart"
+msgstr "Корзина магазина"
+
+#: index.php:287
+msgid "Checkout"
+msgstr "Оплата"
+
+#: index.php:288
+msgid "Clear cart"
+msgstr "Очистить корзину"
+
+#: index.php:289
+msgid "select"
+msgstr "выбрать"
+
+#: index.php:290
+msgid "Select all products"
+msgstr "Выберать все продукты"
+
+#: index.php:291
+msgid "show"
+msgstr "показать"
+
+#: index.php:292
+msgid "hide"
+msgstr "скрыть"
+
+#: index.php:293
+msgid "Table #{0}; filter field: {1}"
+msgstr "Таблица #{0}; поле фильтра: {1}"
+
+#: index.php:294
+msgid "Product title"
+msgstr "Название продукта"
+
+#: index.php:295
+msgid "Importing"
+msgstr "Импортирование"
+
+#: index.php:296
+msgid "Imported!"
+msgstr "Импортировано!"
+
+#: index.php:297
+msgid "Online!"
+msgstr ""
+
+#: index.php:298
+msgid "Offline!"
+msgstr ""
+
+#: index.php:299
+msgid ""
+"The product maybe is: sold out, individual one and is added to the cart, "
+"requested count is over exceed!"
+msgstr ""
+"Продукт может быть: распродан, индивидуален и добавлен в корзину, "
+"запрошенное количество превышено!"
+
+#: index.php:300
+msgid "Max count of products is:"
+msgstr "Максимальное количество товаров:"
+
+#: index.php:380
+#, php-format
+msgid "Table #%s does not exists!"
+msgstr "Таблица #%s не существует!"
+
+#: index.php:461 classes/tables-options.php:298
+msgid "search by title"
+msgstr "поиск по заголовку ..."
+
+#: index.php:491
+msgid "click on me"
+msgstr "нажмите на меня"
+
+#: index.php:968
+msgid "Page"
+msgstr "Страница"
+
+#: index.php:969
+msgid "Pages"
+msgstr "Страницы"
+
+#: index.php:970
+msgid "Load More"
+msgstr "Загрузить больше"
+
+#: index.php:1489
+msgid "ATTENTION! All existed WOOT data will be wiped!"
+msgstr "ВНИМАНИЕ! Все существующие данные WOOT будут уничтожены!"
+
+#: index.php:1497
+msgid "Import"
+msgstr "Импортировать"
+
+#: index.php:1503
+msgid "Columns keys"
+msgstr "Ключи колонок"
+
+#: index.php:1518
+msgid "Order by keys"
+msgstr "Сортировать по ключам"
+
+#: index.php:1527
+msgid "Filter keys"
+msgstr "Ключи фильтра"
+
+#: index.php:1566
+msgid "WOOT Blank Page"
+msgstr "WOOT пустая страница"
+
+#: index.php:1624
+msgid "click me"
+msgstr "Нажми меня"
+
+#: index.php:1761
+msgid "Products in popup"
+msgstr "Продукты в всплывающем окне"
+
+#: index.php:1872
+msgid "Product"
+msgstr "Продукт"
+
+#: profiles/default.php:14 classes/skins.php:31
+msgid "Default"
+msgstr "По умолчанию"
+
+#: profiles/default.php:34 classes/tables.php:133
+#: profiles/woocommerce/woocommerce.php:476
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: profiles/default.php:38 classes/predefinition.php:91
+#: classes/settings.php:126 classes/columns.php:81 classes/tables-meta.php:264
+#: classes/tables-options.php:81 classes/tables.php:68 classes/tables.php:134
+#: classes/columns-fields-options.php:97 classes/filter-fields-options.php:87
+#: classes/filter-fields-options.php:124
+#: profiles/woocommerce/woocommerce-single.php:67
+#: profiles/woocommerce/woocommerce.php:554
+msgid "Title"
+msgstr "Заголовок"
+
+#: profiles/default.php:42 profiles/default.php:44
+#: profiles/woocommerce/woocommerce.php:667
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: profiles/default.php:48
+msgid "See Excerpt"
+msgstr "Смотреть отрывок"
+
+#: profiles/default.php:52 profiles/default.php:54
+#: profiles/woocommerce/woocommerce.php:694
+msgid "Content"
+msgstr "Описание"
+
+#: profiles/default.php:58
+msgid "See Content"
+msgstr "Смотреть описание"
+
+#: profiles/default.php:62 profiles/woocommerce/woocommerce.php:746
+msgid "Status"
+msgstr "Статус"
+
+#: profiles/default.php:66 profiles/woocommerce/woocommerce.php:756
+#: profiles/woocommerce/woocommerce.php:794
+msgid "Author"
+msgstr "Автор"
+
+#: profiles/default.php:69 profiles/woocommerce/woocommerce-reviews.php:39
+msgid "Date"
+msgstr "Дата"
+
+#: profiles/default.php:73
+msgid "Modified"
+msgstr "Изменено"
+
+#: profiles/default.php:77 profiles/woocommerce/woocommerce.php:875
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+#: classes/predefinition.php:94 classes/settings.php:129
+#: classes/tables-options.php:84 classes/columns-fields-options.php:100
+#: classes/filter-fields-options.php:90
+#: profiles/woocommerce/woocommerce-single.php:70
+msgid "Value"
+msgstr "Значение"
+
+#: classes/predefinition.php:99 classes/settings.php:134
+#: classes/tables-options.php:89 classes/columns-fields-options.php:103
+#: classes/filter-fields-options.php:93
+msgid "Info"
+msgstr "Информация"
+
+#: classes/predefinition.php:153 classes/columns.php:308
+#: classes/tables-meta.php:393 classes/tables-options.php:473
+msgid "Wrong type"
+msgstr "Неверный тип"
+
+#: classes/predefinition.php:177
+msgid "Products ids"
+msgstr "Идентификаторы продуктов"
+
+#: classes/predefinition.php:180
+msgid ""
+"Using comma, set products ids you want to show in the table. Example: 23,99,"
+"777. Set -1 if you do not want to use it."
+msgstr ""
+"Используя запятую, установите идентификаторы продуктов, которые вы хотите "
+"показать в таблице. Пример: 23,99,777. Установите -1, если вы не хотите его "
+"использовать."
+
+#: classes/predefinition.php:184
+msgid "Exclude products ids"
+msgstr "Исключить идентификаторы продуктов"
+
+#: classes/predefinition.php:187
+msgid ""
+"Using comma, set products ids you want to hide in the table. Example: 24,101,"
+"888. Set -1 if you do not want to use it."
+msgstr ""
+"С помощью запятой установите идентификаторы продуктов, которые вы хотите "
+"скрыть в таблице. Пример: 24 101 888. Установите -1, если вы не хотите его "
+"использовать."
+
+#: classes/predefinition.php:191
+msgid "Products SKU"
+msgstr "Продукт SKU"
+
+#: classes/predefinition.php:194
+msgid ""
+"Using comma, set products SKU you want to show in the table. Example: aa1,"
+"bb2,cc3. Set -1 if you do not want to use it."
+msgstr ""
+"Используя запятую, задайте продукты SKU, которые вы хотите показать в "
+"таблице. Пример: aa1, bb2, cc3. Установите -1, если вы не хотите его "
+"использовать."
+
+#: classes/predefinition.php:198
+msgid "Exclude products SKU"
+msgstr "Исключить продукты по SKU"
+
+#: classes/predefinition.php:201
+msgid ""
+"Using comma, set products SKU you want to hide in the table. Example: aa1,"
+"bb2,cc3. Set -1 if you do not want to use it."
+msgstr ""
+"Используя запятую, задайте продукты SKU, которые вы хотите скрыть в таблице. "
+"Пример: aa1, bb2, cc3. Установите -1, если вы не хотите его использовать."
+
+#: classes/predefinition.php:205
+msgid "On sale only"
+msgstr "Только в продаже"
+
+#: classes/predefinition.php:208
+msgid "Show products which are on sale only"
+msgstr "Показать товары только в продаже"
+
+#: classes/predefinition.php:212
+msgid "Show hidden"
+msgstr "Показать скрытое"
+
+#: classes/predefinition.php:215
+msgid "Show products which visibility in the catalog is set as hidden"
+msgstr "Показать товары, видимость которых в каталоге установлены как скрытые"
+
+#: classes/predefinition.php:219
+msgid "In stock only"
+msgstr "Только на складе"
+
+#: classes/predefinition.php:222
+msgid "Show products which are in stock only"
+msgstr "Показать товары, которые есть в наличии"
+
+#: classes/predefinition.php:226
+msgid "Featured only"
+msgstr "Только избранные"
+
+#: classes/predefinition.php:229
+msgid "Show featured products only"
+msgstr "Показывать только рекомендуемые товары"
+
+#: classes/predefinition.php:233
+msgid "Authors"
+msgstr "Автора"
+
+#: classes/predefinition.php:236
+msgid ""
+"Products by authors ids. Example: 1,2,3. Set -1 if you do not want to use it."
+msgstr ""
+"Продукция по авторам ид. Пример: 1,2,3. Установите -1, если вы не хотите его "
+"использовать."
+
+#: classes/predefinition.php:240
+msgid "Bestsellers"
+msgstr "Бестселлеры"
+
+#: classes/predefinition.php:243
+msgid ""
+"Bestsellers products. Set their count to display. Set -1 if you do not want "
+"to use it."
+msgstr ""
+"Бестселлеры. Установите их количество для отображения. Установите -1, если "
+"вы не хотите его использовать."
+
+#: classes/predefinition.php:247
+msgid "Newest"
+msgstr "Новейшие"
+
+#: classes/predefinition.php:250
+msgid ""
+"Newest products. Set their count to display. Set -1 if you do not want to "
+"use it."
+msgstr ""
+"Новейшие продукты. Установите их количество для отображения. Установите -1, "
+"если вы не хотите его использовать."
+
+#: classes/predefinition.php:254
+msgid "Included taxonomy"
+msgstr "Включенные таксономии"
+
+#: classes/predefinition.php:257
+msgid ""
+"Display products which relevant to the rule. Example: product_cat:25,"
+"26|pa_color:19|rel:AND. Set -1 if you do not want to use it."
+msgstr ""
+"Показать продукты, которые имеют отношение к правилу. Пример: product_cat: "
+"25,26 | pa_color: 19 | rel: AND. Установите -1, если вы не хотите его "
+"использовать."
+
+#: classes/predefinition.php:261
+msgid "Excluded taxonomy"
+msgstr "Исключенные таксономии"
+
+#: classes/predefinition.php:264
+msgid ""
+"Exclude products which relevant to the rule. Example: pa_color:19|pa_size:"
+"21|rel:OR. Set -1 if you do not want to use it."
+msgstr ""
+"Исключить продукты, которые имеют отношение к правилу. Пример: pa_color: 19 "
+"| pa_size: 21 | rel: OR. Установите -1, если вы не хотите его использовать."
+
+#: classes/settings.php:178
+msgid "Show button in admin bar"
+msgstr "Показать кнопку на панели администратора"
+
+#: classes/settings.php:180
+msgid ""
+"Enable/Disable WOOT button on the top admin bar. Button will "
+"appear/disappear after the page reloading!"
+msgstr ""
+"Включить / отключить кнопку WOOT на верхней панели администратора. Кнопка "
+"появится / исчезнет после перезагрузки страницы!"
+
+#: classes/settings.php:184
+msgid "Languages"
+msgstr "Языки"
+
+#: classes/settings.php:189
+msgid ""
+"Languages for tab Vocabulary. This options created for dynamic words and "
+"such plugins as WPML. Use the comma to add languages you want to use on the "
+"site front. By default: -1. Example: en_US,fr_FR,es_ES,de_DE,ru_RU. After "
+"the field change, settings of Vocabulary will appear after the page "
+"reloading."
+msgstr ""
+"Языки для вкладки Словарь. Эта опция создана для динамических слов и таких "
+"плагинов, как WPML. Используйте запятую, чтобы добавить языки, которые вы "
+"хотите использовать в передней части сайта. По умолчанию: -1. Пример: en_US, "
+"fr_FR, es_ES, de_DE, ru_RU. После изменения поля настройки словаря появятся "
+"после перезагрузки страницы."
+
+#: classes/settings.php:193
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: classes/settings.php:198
+msgid ""
+"For the columns options. Use fonts which are represented in the current "
+"WordPress theme. Use comma and do not use quotes! Example: Helvetica,Roboto"
+msgstr ""
+"Для опций столбцов. Используйте шрифты, которые представлены в текущей теме "
+"WordPress. Используйте запятую и не используйте кавычки! Пример: Helvetica, "
+"Робото"
+
+#: classes/settings.php:202
+msgid "Thumbnail size"
+msgstr "Размер миниатюры"
+
+#: classes/settings.php:208
+msgid "Default size of products thumbnails (px)"
+msgstr "Размер по умолчанию для миниатюр продуктов (px)"
+
+#: classes/settings.php:212
+msgid "Wipe all data"
+msgstr "Стереть все данные"
+
+#: classes/settings.php:214
+msgid ""
+"Enable this option ONLY if you are going to uninstall WOOT completely and "
+"forever. For updates keep it disabled."
+msgstr ""
+"Включите эту опцию ТОЛЬКО если вы собираетесь удалить WOOT полностью и "
+"навсегда. Для обновлений держите его отключенным."
+
+#: classes/settings.php:223
+msgid "Users roles can manage"
+msgstr "Роли пользователей кот. могут управлять"
+
+#: classes/settings.php:233
+msgid ""
+"What users roles (together with administrator) can manage WOOT functionality"
+msgstr ""
+"Какие роли пользователей (вместе с администратором) могут управлять "
+"функциями WOOT"
+
+#: classes/columns.php:78
+msgid "Move"
+msgstr "Двигать"
+
+#: classes/columns.php:86
+msgid "Active"
+msgstr "Активный"
+
+#: classes/columns.php:90
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: classes/columns.php:94
+msgid "Field"
+msgstr "Поле"
+
+#: classes/columns.php:98 classes/columns-fields-options.php:214
+#: classes/filter-fields-options.php:209
+#: profiles/woocommerce/woocommerce.php:1192
+msgid "Width"
+msgstr "Ширина"
+
+#: classes/columns.php:102 classes/tables-meta.php:279
+msgid "Notes"
+msgstr "Записи"
+
+#: classes/columns.php:106 classes/tables-meta.php:283 classes/tables.php:88
+msgid "Actions"
+msgstr "Действия"
+
+#: classes/columns.php:221
+msgid "drag and drope"
+msgstr "перемещение"
+
+#: classes/columns.php:254
+msgid "not selected"
+msgstr "не выбрано"
+
+#: classes/columns.php:279
+msgid "no fields found"
+msgstr "поля не найденны"
+
+#: classes/columns.php:285
+#, php-format
+msgid "Table: %s. Field: %s"
+msgstr "Таблица: %s. Поле: %s"
+
+#: classes/columns.php:292
+msgid "edit"
+msgstr "редактировать"
+
+#: classes/columns.php:300 classes/tables-meta.php:385
+#: classes/vocabulary.php:189
+msgid "delete"
+msgstr "удалить"
+
+#: classes/columns.php:338
+msgid "search by column title"
+msgstr "поиск по заголовку колонки"
+
+#: classes/columns.php:423
+msgid "New Column"
+msgstr "Новая колонка"
+
+#: classes/tables-meta.php:49
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: classes/tables-meta.php:50
+msgid "Descending"
+msgstr "По убыванию"
+
+#: classes/tables-meta.php:269
+msgid "Meta key"
+msgstr "Мета ключ"
+
+#: classes/tables-meta.php:274 profiles/woocommerce/woocommerce.php:1594
+msgid "Type"
+msgstr "Тип"
+
+#: classes/tables-meta.php:368
+msgid "not defined"
+msgstr "не определено"
+
+#: classes/tables-meta.php:369
+msgid "text"
+msgstr "текст"
+
+#: classes/tables-meta.php:370
+msgid "number"
+msgstr "цифра"
+
+#: classes/tables-meta.php:371
+msgid "calendar"
+msgstr "календарь"
+
+#: classes/tables-meta.php:450
+msgid "0 write key here"
+msgstr "0 пиши ключ здесь"
+
+#: classes/tables-options.php:203
+msgid "Per page default"
+msgstr "На страницу по умолчанию"
+
+#: classes/tables-options.php:206
+msgid "How many products per page display in the table by default. Example: 10"
+msgstr ""
+"Сколько продуктов на странице отображается в таблице по умолчанию. Пример: 10"
+
+#: classes/tables-options.php:210
+msgid "Per page values"
+msgstr "Значения на страницу"
+
+#: classes/tables-options.php:213
+msgid ""
+"Values displayed in the per-page drop-down. Example: 10,20,30,40,50,60,70,80,"
+"90,100"
+msgstr ""
+"Значения отображаются в раскрывающемся списке на странице. Пример: 10,20,30,"
+"40,50,60,70,80,90,100"
+
+#: classes/tables-options.php:217
+msgid "Pagination position"
+msgstr "Позиция пагинации"
+
+#: classes/tables-options.php:221 classes/tables-options.php:235
+msgid "Top and Bottom"
+msgstr "Верх и низ"
+
+#: classes/tables-options.php:222 classes/tables-options.php:236
+msgid "Top"
+msgstr "Верх"
+
+#: classes/tables-options.php:223 classes/tables-options.php:237
+msgid "Bottom"
+msgstr "Низ"
+
+#: classes/tables-options.php:224 classes/tables-options.php:238
+msgid "None"
+msgstr "Ничего"
+
+#: classes/tables-options.php:227
+msgid "Set none to hide pagination"
+msgstr "Оставьте пустым, чтобы скрыть нумерацию страниц"
+
+#: classes/tables-options.php:231
+msgid "Per page drop-down position"
+msgstr "Позиция селекта продуктов/страница"
+
+#: classes/tables-options.php:241
+msgid "Set none to hide drop-down"
+msgstr "Оставьте пустым, чтобы скрыть раскрывающийся список"
+
+#: classes/tables-options.php:245
+msgid "Default order by"
+msgstr "Поле сортировки по умолчанию"
+
+#: classes/tables-options.php:250
+msgid "How to order products after table initialization"
+msgstr "Как упорядочить продукты после инициализации таблицы"
+
+#: classes/tables-options.php:254
+msgid "Default order"
+msgstr "Сортировка по умолчанию"
+
+#: classes/tables-options.php:262
+msgid "Products order direction"
+msgstr "Направление сортировки продуктов"
+
+#: classes/tables-options.php:266
+msgid "Use flying header"
+msgstr "Используйте летающий хедер"
+
+#: classes/tables-options.php:269
+msgid ""
+"Flying header while table scrolling. Disabled in the compact view mode on "
+"the mobile devices"
+msgstr ""
+"Летающий хедер при прокрутке таблицы. Отключено в режиме компактного "
+"просмотра на мобильных устройствах"
+
+#: classes/tables-options.php:273
+msgid "Show print button"
+msgstr "Показать кнопку печати"
+
+#: classes/tables-options.php:276
+msgid "Show print button to print table current page"
+msgstr "Показать кнопку печати для печати текущей страницы таблицы"
+
+#: classes/tables-options.php:280
+msgid "Show search by title"
+msgstr "Показывать поиск по заголовку"
+
+#: classes/tables-options.php:283
+#, php-format
+msgid ""
+"Show search by product title textinput. To make it works with product "
+"content text and product excerpt text use shortcode attributes %s"
+msgstr ""
+"Показать поиск по названию продукта. Чтобы он работал с текстом содержимого "
+"продукта и текстом выдержки из продукта, используйте атрибуты шорткода %s"
+
+#: classes/tables-options.php:290
+msgid "Min symbols count"
+msgstr "Минимальное кол-во символов"
+
+#: classes/tables-options.php:293
+msgid "Minimum symbols for search by title when search is possible"
+msgstr ""
+"Минимальное количество символов для поиска по названию, когда поиск возможен"
+
+#: classes/tables-options.php:297
+msgid "Search by title placeholder"
+msgstr "Текст плейсхолдера"
+
+#: classes/tables-options.php:300
+msgid "Text of placeholder for the search by title input"
+msgstr "Текст заполнителя для поиска по заголовку"
+
+#: classes/tables-options.php:304
+msgid "Hide filter form"
+msgstr "Скрывать форму фильтра"
+
+#: classes/tables-options.php:307
+msgid ""
+"Hide filter form, and show it by button click. Useful if the filter form is "
+"quite big"
+msgstr ""
+"Скрыть форму фильтра и показать ее по нажатию кнопки. Полезно, если форма "
+"фильтра довольно большая"
+
+#: classes/tables-options.php:311
+msgid "Disable filter form"
+msgstr "Отключить форму фильтра"
+
+#: classes/tables-options.php:314
+msgid "Switch off filter form"
+msgstr "Отключить форму фильтра"
+
+#: classes/tables-options.php:318
+msgid "Use load more button"
+msgstr "Использовать кнопку загрузить больше"
+
+#: classes/tables-options.php:319 profiles/woocommerce/woocommerce.php:403
+msgid "premium version"
+msgstr "премиум версия"
+
+#: classes/tables-options.php:322
+msgid ""
+"Use load more button instead of pagination. If it is activated, pagination "
+"and per-page drop-down will be hidden"
+msgstr ""
+"Используйте кнопку «Загрузить больше» вместо нумерации страниц. Если опция "
+"активирована, нумерация страниц и раскрывающийся список страниц будут скрыты"
+
+#: classes/tables-options.php:326
+msgid "Post statuses"
+msgstr "Статусы постов"
+
+#: classes/tables-options.php:335
+msgid ""
+"Use some post statuses on the same time or select one. Publish status is by "
+"default."
+msgstr ""
+"Выбери статусы тех продуктов которые хочешь показывать в таблице. По "
+"умолчанию показываются только опубликованные"
+
+#: classes/tables-options.php:339
+msgid "Disable columns order-by"
+msgstr "Отключить сортировку столбцов"
+
+#: classes/tables-options.php:348
+msgid ""
+"Disable columns data ordering on the site front in the columns where it is "
+"possible"
+msgstr "Запретить сортировку для столбцов где это возможно"
+
+#: classes/tables-options.php:352
+msgid "Compact view width"
+msgstr "Ширина компактного отображения"
+
+#: classes/tables-options.php:355
+msgid ""
+"For small mobile devices. Here you can set window width less of which the "
+"table will be displayed in compact mode. Example: 500. To disable this "
+"behaviour set -1"
+msgstr ""
+"Для небольших мобильных устройств. Здесь вы можете установить ширину окна, "
+"меньше которой таблица будет отображаться в компактном режиме. Пример: 500. "
+"Чтобы отключить это поведение, установите -1"
+
+#: classes/tables-options.php:359
+msgid "Table custom HTML ID"
+msgstr "Настраиваемый HTML ID таблицы"
+
+#: classes/tables-options.php:362
+msgid ""
+"Attach to table constant html id which you can use for targeted CSS "
+"customizations. Remember that ID should be unique! If you not understand it -"
+" leave this field empty."
+msgstr ""
+"Прикрепите к таблице константный идентификатор html, который вы можете "
+"использовать для целевой настройки CSS. Помните, что ID должен быть "
+"уникальным! Если вы этого не понимаете - оставьте это поле пустым."
+
+#: classes/tables-options.php:366
+msgid "Display cell info"
+msgstr "Показать информацию о ячейке"
+
+#: classes/tables-options.php:369
+msgid "Display cell info on its mouse hover"
+msgstr "Отображение информации о ячейке при наведении мыши"
+
+#: classes/filter.php:229
+#, php-format
+msgid "From: %s"
+msgstr "От: %s"
+
+#: classes/filter.php:230
+#, php-format
+msgid "To: %s"
+msgstr "До: %s"
+
+#: classes/tables.php:64
+msgid "Thumb"
+msgstr "Миниатюра"
+
+#: classes/tables.php:76
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: classes/tables.php:80
+msgid "Published"
+msgstr "Опубликовано"
+
+#: classes/tables.php:84
+msgid "Skin"
+msgstr "Тема"
+
+#: classes/tables.php:125 classes/tables.php:232
+msgid "New Table"
+msgstr "Новая таблица"
+
+#: classes/tables.php:135 profiles/woocommerce/woocommerce.php:912
+msgid "Price"
+msgstr "Цена"
+
+#: classes/tables.php:136 profiles/woocommerce/woocommerce.php:1081
+msgid "Gallery"
+msgstr "Галлерея"
+
+#: classes/tables.php:137 profiles/woocommerce/woocommerce.php:1776
+msgid "Cart"
+msgstr "Корзина"
+
+#: classes/tables.php:237
+#, php-format
+msgid "%s (clone)"
+msgstr "%s (клон)"
+
+#: classes/tables.php:333
+msgid "table options"
+msgstr "варианты таблицы"
+
+#: classes/tables.php:337
+msgid "clone table"
+msgstr "клонировать таблицу"
+
+#: classes/tables.php:342
+msgid "delete table"
+msgstr "удалить таблицу"
+
+#: classes/columns-fields-options.php:162
+#: classes/columns-fields-options.php:180
+msgid "Display as text"
+msgstr "Показать как текст"
+
+#: classes/columns-fields-options.php:164
+msgid ""
+"If enabled, taxonomy terms will be displayed as text. By default: links."
+msgstr ""
+"Если включено, термины таксономии будут отображаться в виде текста. По "
+"умолчанию: ссылки."
+
+#: classes/columns-fields-options.php:182
+msgid "Display as text instead of link to the product"
+msgstr "Отображать как текст вместо ссылки на товар"
+
+#: classes/columns-fields-options.php:197
+msgid "Show labels"
+msgstr "Показать ярлыки"
+
+#: classes/columns-fields-options.php:199
+msgid ""
+"If enabled in the title cell will be able to shown such labels as: featured, "
+"on sale, out of stock"
+msgstr ""
+"Если включено, в заголовке ячейки будут показаны такие ярлыки как: признакам,"
+" в продаже, нет в наличии"
+
+#: classes/columns-fields-options.php:223
+msgid "Thumbnail width (px)"
+msgstr "Ширина миниатюры (px)"
+
+#: classes/columns-fields-options.php:238
+msgid "Preview on hover"
+msgstr "Предварительный просмотр при наведении"
+
+#: classes/columns-fields-options.php:247
+msgid ""
+"Width of the preview when mouse hover on the thumbnail (px). Set -1 to "
+"disable."
+msgstr ""
+"Ширина предварительного просмотра при наведении курсора мыши на эскиз (px). "
+"Установите -1, чтобы отключить."
+
+#: classes/columns-fields-options.php:256
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: classes/columns-fields-options.php:265
+msgid "Example: 16px OR 1.2em"
+msgstr "Пример: 16px ИЛИ 1.2em"
+
+#: classes/columns-fields-options.php:278
+msgid "Font family"
+msgstr "Семейство шрифта"
+
+#: classes/columns-fields-options.php:285
+msgid "The column text font family. Include them in the tab Settings!"
+msgstr "Семейство шрифтов текста столбца. Включите их во вкладке «Настройки»!"
+
+#: classes/columns-fields-options.php:294
+msgid "Color"
+msgstr "Цвет"
+
+#: classes/columns-fields-options.php:303
+msgid "Example: #00ff00"
+msgstr "Пример: #00ff00"
+
+#: classes/columns-fields-options.php:312
+msgid "Background"
+msgstr "Фон"
+
+#: classes/columns-fields-options.php:321
+msgid "Example: #000000 OR https://__IMG_URL__"
+msgstr "Пример: #000000 или https://__IMG_URL__"
+
+#: classes/columns-fields-options.php:330
+msgid "Hide on small screen"
+msgstr "Скрыть на маленьком экране"
+
+#: classes/columns-fields-options.php:339
+msgid ""
+"If you want to hide this column on small screens, set here width, lower "
+"which its will be hidden. Example: 500. Leave it empty to disable."
+msgstr ""
+"Если вы хотите скрыть этот столбец на маленьких экранах, установите здесь "
+"ширину, ниже которой будет скрыт ее. Пример: 500. Оставьте это пустым, чтобы "
+"отключить."
+
+#: classes/filter-fields-options.php:132
+msgid "Filter element title"
+msgstr "Заголовок элемента фильтра"
+
+#: classes/filter-fields-options.php:141
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: classes/filter-fields-options.php:149
+msgid "Input placeholder"
+msgstr "Заполнитель инпута"
+
+#: classes/filter-fields-options.php:158
+msgid "Minlength"
+msgstr "Минимальная длина"
+
+#: classes/filter-fields-options.php:166
+msgid "Input minlength"
+msgstr "Введите минимальную длину"
+
+#: classes/filter-fields-options.php:175
+msgid "Min"
+msgstr "Минимум"
+
+#: classes/filter-fields-options.php:183 classes/filter-fields-options.php:200
+msgid ""
+"Set custom min value. By default value is -1 and auto definition through "
+"database will be applied."
+msgstr ""
+"Минимальное значение. По умолчанию -1 и скрипт сам определит используя "
+"запросы к базе"
+
+#: classes/filter-fields-options.php:192
+msgid "Max"
+msgstr "Максимум"
+
+#: classes/filter-fields-options.php:217
+msgid "Container width. By default is 100%. Example: 50%, 150px"
+msgstr "Ширина контейнера. По умолчанию это 100%. Пример: 50%, 150px"
+
+#: classes/filter-fields-options.php:226
+msgid "Data type"
+msgstr "Тип данных"
+
+#: classes/filter-fields-options.php:237
+#, php-format
+msgid "In ACF is used %s data type"
+msgstr "В ACF используется тип данных %s"
+
+#: classes/filter-fields-options.php:250
+msgid "MultiSelect"
+msgstr ""
+
+#: classes/filter-fields-options.php:252
+msgid "Display as multi-select"
+msgstr "Отображать как мульти-выбор"
+
+#: classes/filter-fields-options.php:261
+msgid "Logic"
+msgstr "Логика"
+
+#: classes/filter-fields-options.php:272
+msgid "Logic of the selected terms. Mainly for multi-select."
+msgstr "Логика выбранных терминов. В основном для мульти-выбора."
+
+#: classes/filter-fields-options.php:281
+msgid "Exclude"
+msgstr "Исключить"
+
+#: classes/filter-fields-options.php:290
+msgid ""
+"Using comma, write terms ids you want to exclude from the filter. Leave "
+"empty to disable."
+msgstr ""
+"Используя запятую, напишите идентификаторы терминов, которые вы хотите "
+"исключить из фильтра. Оставьте пустым, чтобы отключить."
+
+#: classes/filter-fields-options.php:299
+msgid "Include"
+msgstr "Включить"
+
+#: classes/filter-fields-options.php:308
+msgid ""
+"Using comma, write terms ids you want to see in the filter, another ones "
+"will not be displayed. Leave empty to disable."
+msgstr ""
+"Используя запятую, напишите идентификаторы терминов, которые вы хотите "
+"видеть в фильтре, другие не будут отображаться. Оставьте пустым, чтобы "
+"отключить."
+
+#: classes/vocabulary.php:75
+msgid "Key Word"
+msgstr "Ключевое слово"
+
+#: classes/vocabulary.php:130
+msgid "search by keyword"
+msgstr "поиск по ключевому слову"
+
+#: classes/vocabulary.php:246
+msgid "new translate"
+msgstr "новый перевод"
+
+#: views/options.php:32
+#, php-format
+msgid "WOOT - WooCommerce Active Products Tables v.%s"
+msgstr ""
+
+#: views/options.php:33
+#, php-format
+msgid "Actualized for WooCommerce v.%s"
+msgstr "Актуализировано для WooCommerce v.%s"
+
+#: views/options.php:45
+msgid "Tables"
+msgstr "Таблицы"
+
+#: views/options.php:54
+msgid "Settings"
+msgstr "Настройки"
+
+#: views/options.php:63
+msgid "Vocabulary"
+msgstr "Словарь"
+
+#: views/options.php:87
+msgid "Create table"
+msgstr "Создать таблицу"
+
+#: views/options.php:98
+msgid "Upgrade to Premium"
+msgstr "Обновить до Премиум"
+
+#: views/options.php:114 views/options.php:368
+#, php-format
+msgid "In free version is possible to display only first %s columns!"
+msgstr "В бесплатной версии возможно отображение только первых %s колонок!"
+
+#: views/options.php:122
+msgid "Info data: All possible columns keys for [woot] shortcode attributes"
+msgstr ""
+"Информационные данные: все возможные столбцы ключей для атрибутов шорткода "
+"[woot]"
+
+#: views/options.php:122
+msgid "All possible columns keys"
+msgstr "Все возможные столбцы ключей"
+
+#: views/options.php:123
+msgid "Export WOOT Data"
+msgstr "Экспорт данных WOOT"
+
+#: views/options.php:124
+msgid "Import WOOT Data"
+msgstr "Импорт данных WOOT"
+
+#: views/options.php:132
+#, php-format
+msgid ""
+"This vocabulary is not for interface words, which you can translate for "
+"example by %s, but for the arbitrary words which you applied in the tables "
+"columns. Taxonomies terms also possible to translate here, to display them "
+"in the WOOT tables."
+msgstr ""
+"Этот словарь предназначен не для интерфейсных слов, которые вы можете "
+"перевести, например, на %s, а для произвольных слов, которые вы применили в "
+"столбцах таблиц. Термины таксономий также можно перевести сюда, чтобы "
+"отобразить их в таблицах WOOT."
+
+#: views/options.php:142
+msgid "Create"
+msgstr "Создать"
+
+#: views/options.php:163
+msgid "You can do next ..."
+msgstr "Вы можете сделать следующее ..."
+
+#: views/options.php:185
+msgid "FAQ"
+msgstr "ЧАВО"
+
+#: views/options.php:192
+msgid "Codex"
+msgstr "Кодекс"
+
+#: views/options.php:199
+msgid "Video"
+msgstr "Видео"
+
+#: views/options.php:206
+msgid "Make skins"
+msgstr "Сделать скины"
+
+#: views/options.php:213
+msgid "Support"
+msgstr "Поддержка"
+
+#: views/options.php:219
+msgid "Extensions for WOOT"
+msgstr "Расширения для WOOT"
+
+#: views/options.php:228
+msgid "Favourites"
+msgstr "Избранные"
+
+#: views/options.php:234
+msgid "Compare"
+msgstr "Сравнить"
+
+#: views/options.php:240
+msgid "Attachments"
+msgstr "Вложения"
+
+#: views/options.php:252
+msgid "Power your store"
+msgstr "Сила вашего магазина"
+
+#: views/options.php:308
+msgid "Columns"
+msgstr "Колонки"
+
+#: views/options.php:317
+msgid "Meta"
+msgstr "Мета"
+
+#: views/options.php:327
+msgid "Filter"
+msgstr "Фильтр"
+
+#: views/options.php:336
+msgid "Predefinition"
+msgstr "Предъопределения"
+
+#: views/options.php:345
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: views/options.php:354
+msgid "Options"
+msgstr "Опции"
+
+#: views/options.php:376
+msgid "Prepend column"
+msgstr "Добавить столбец в начало"
+
+#: views/options.php:390
+msgid "Append column"
+msgstr "Добавить столбец в конец"
+
+#: views/options.php:406
+#, php-format
+msgid ""
+"You can use custom CSS for small changes, but for quite big the table "
+"restyling its recommended to use %s. Use hotkey combination CTRL+S for CSS "
+"code saving!"
+msgstr ""
+"Вы можете использовать пользовательский CSS для небольших изменений, но для "
+"довольно большого рестайлинга таблицы рекомендуется использовать %s. "
+"Используйте комбинацию горячих клавиш CTRL + S для сохранения кода CSS!"
+
+#: views/options.php:409
+msgid "table skins"
+msgstr "скины таблицы"
+
+#: views/options.php:429
+#, php-format
+msgid ""
+"If to use sorting by meta keys - will be visible only products which has any "
+"value for the selected meta key. %s"
+msgstr ""
+"Если использовать сортировку по мета-ключам - будут видны только продукты, "
+"которые имеют какое-либо значение для выбранного мета-ключа. %s"
+
+#: views/options.php:432 views/options.php:468
+msgid "Read more here"
+msgstr "Узнайте больше здесь"
+
+#: views/options.php:440
+msgid "Add meta field"
+msgstr "Добавить метаполе"
+
+#: views/options.php:449
+#, php-format
+msgid "Also for products filtration you can use %s filter!"
+msgstr "Также для фильтрации продуктов вы можете использовать %s фильтр!"
+
+#: views/options.php:457
+#, php-format
+msgid "In free version is possible to display only first %s items!"
+msgstr "В бесплатной версии возможно отображение только первых %s элементов!"
+
+#: views/options.php:465
+#, php-format
+msgid ""
+"Here you can set rules about what products to display in the table. The "
+"filtration will work with the predefined products as with basic ones. %s."
+msgstr ""
+"Здесь вы можете установить правила о том, какие продукты отображать в "
+"таблице. Фильтрация будет работать с предопределенными продуктами, как с "
+"основными. %s."
+
+#: views/options.php:480 views/popup.php:25
+msgid "Close"
+msgstr "Закрыть"
+
+#: views/options.php:481
+msgid "Apply"
+msgstr "Применить"
+
+#: views/table.php:96
+msgid "Sorted by table"
+msgstr "Отсортировано таблицей"
+
+#: views/table.php:116
+#, php-format
+msgid "Table %s is not active!"
+msgstr "Таблица %s не активна!"
+
+#: lib/helper.php:377
+msgid "January"
+msgstr "Январь"
+
+#: lib/helper.php:378
+msgid "February"
+msgstr "Февраль"
+
+#: lib/helper.php:379
+msgid "March"
+msgstr "Март"
+
+#: lib/helper.php:380
+msgid "April"
+msgstr "Апрель"
+
+#: lib/helper.php:381 lib/helper.php:395
+msgid "May"
+msgstr "Май"
+
+#: lib/helper.php:382
+msgid "June"
+msgstr "Июнь"
+
+#: lib/helper.php:383
+msgid "July"
+msgstr "Июль"
+
+#: lib/helper.php:384
+msgid "August"
+msgstr "Август"
+
+#: lib/helper.php:385
+msgid "September"
+msgstr "Сентябрь"
+
+#: lib/helper.php:386
+msgid "October"
+msgstr "Октябрь"
+
+#: lib/helper.php:387
+msgid "November"
+msgstr "Ноябрь"
+
+#: lib/helper.php:388
+msgid "December"
+msgstr "Декабрь"
+
+#: lib/helper.php:391
+msgid "Jan"
+msgstr "Янв"
+
+#: lib/helper.php:392
+msgid "Feb"
+msgstr "Фев"
+
+#: lib/helper.php:393
+msgid "Mar"
+msgstr "Мар"
+
+#: lib/helper.php:394
+msgid "Apr"
+msgstr "Апр"
+
+#: lib/helper.php:396
+msgid "Jun"
+msgstr "Июн"
+
+#: lib/helper.php:397
+msgid "Jul"
+msgstr "Июл"
+
+#: lib/helper.php:398
+msgid "Aug"
+msgstr "Авг"
+
+#: lib/helper.php:399
+msgid "Sep"
+msgstr "Сен"
+
+#: lib/helper.php:400
+msgid "Oct"
+msgstr "Окт"
+
+#: lib/helper.php:401
+msgid "Nov"
+msgstr "Ноя"
+
+#: lib/helper.php:402
+msgid "Dec"
+msgstr "Дек"
+
+#: lib/helper.php:405
+msgid "Mo"
+msgstr "ПН"
+
+#: lib/helper.php:406
+msgid "Tu"
+msgstr "ВТ"
+
+#: lib/helper.php:407
+msgid "We"
+msgstr "СР"
+
+#: lib/helper.php:408
+msgid "Th"
+msgstr "ЧТ"
+
+#: lib/helper.php:409
+msgid "Fr"
+msgstr "ПТ"
+
+#: lib/helper.php:410
+msgid "Sa"
+msgstr "СБ"
+
+#: lib/helper.php:411
+msgid "Su"
+msgstr "ВС"
+
+#: lib/rate_alert.php:66
+msgid "support"
+msgstr "поддержка"
+
+#: lib/rate_alert.php:82
+msgid "Nope, maybe later!"
+msgstr "Нет, может быть позже!"
+
+#: lib/rate_alert.php:86
+msgid "Ok, you deserve it"
+msgstr "Хорошо, ты это заслужил"
+
+#: lib/rate_alert.php:90
+msgid "Thank you, I did it!"
+msgstr "Спасибо, я сделал это!"
+
+#: profiles/woocommerce/woocommerce-grouped.php:20
+msgid "Grouped columns"
+msgstr "Сгруппированные столбцы"
+
+#: profiles/woocommerce/woocommerce-single.php:38
+#: profiles/woocommerce/woocommerce.php:721
+msgid "Single"
+msgstr "Одиночный"
+
+#: profiles/woocommerce/woocommerce-single.php:48
+msgid ""
+"Columns for table Single and shortcode [woot_single]. Press and wait to "
+"reorder."
+msgstr ""
+"Столбцы для таблицы Single и шорткод [woot_single]. Нажмите и подождите, "
+"чтобы изменить порядок."
+
+#: profiles/woocommerce/woocommerce-single.php:123
+#, php-format
+msgid "Product #%s does not exists!"
+msgstr "Продукт #%s не существует!"
+
+#: profiles/woocommerce/woocommerce-cart.php:69
+msgid "Quantity"
+msgstr "Количество"
+
+#: profiles/woocommerce/woocommerce-cart.php:91
+msgid "individually 1"
+msgstr "индивидуально 1"
+
+#: profiles/woocommerce/woocommerce-cart.php:96
+msgid "Subtotal"
+msgstr "Промежуточный итог"
+
+#: profiles/woocommerce/woocommerce-cart.php:127
+msgid "Hide shop cart button"
+msgstr "Скрыть кнопку корзины магазина"
+
+#: profiles/woocommerce/woocommerce-cart.php:129
+msgid "Hide shop cart button on WOOT Cart panel"
+msgstr "Скрыть кнопку корзины на панели WOOT Cart"
+
+#: profiles/woocommerce/woocommerce-cart.php:134
+msgid "Hide checkout button"
+msgstr "Скрыть кнопку оформления заказа"
+
+#: profiles/woocommerce/woocommerce-cart.php:136
+msgid "Hide checkout button on WOOT Cart panel"
+msgstr "Скрыть кнопку оформления заказа на панели WOOT Cart"
+
+#: profiles/woocommerce/woocommerce-cart.php:152
+msgid "Shop cart columns"
+msgstr "Колонки корзины"
+
+#: profiles/woocommerce/woocommerce-cart.php:162
+msgid "Columns of WOOT shop cart. Press and wait to reorder."
+msgstr "Колонки для корзины. Нажмите и подождите, чтобы изменить порядок."
+
+#: profiles/woocommerce/woocommerce-variations.php:20
+msgid "Variations columns"
+msgstr "Колонки вариаций"
+
+#: profiles/woocommerce/woocommerce.php:304
+msgid "Sort by popularity"
+msgstr "Сортировать по популярности"
+
+#: profiles/woocommerce/woocommerce.php:305
+msgid "Sort by average rating"
+msgstr "Сортировать по среднему рейтингу"
+
+#: profiles/woocommerce/woocommerce.php:306
+msgid "Sort by latest"
+msgstr "Сортировать по последним"
+
+#: profiles/woocommerce/woocommerce.php:307
+msgid "Sort by price: low to high"
+msgstr "Сортировать по цене: по убыванию"
+
+#: profiles/woocommerce/woocommerce.php:308
+msgid "Sort by price: high to low"
+msgstr "Сортировать по цене: по убыванию"
+
+#: profiles/woocommerce/woocommerce.php:309
+msgid "Sort by name A-Z"
+msgstr "Сортировать по имени А-Я"
+
+#: profiles/woocommerce/woocommerce.php:310
+msgid "Sort by name Z-A"
+msgstr "Сортировать по названию Я-А"
+
+#: profiles/woocommerce/woocommerce.php:311
+msgid "SKU: Ascending"
+msgstr "SKU: по возрастанию"
+
+#: profiles/woocommerce/woocommerce.php:312
+msgid "SKU: Descending"
+msgstr "SKU: по убыванию"
+
+#: profiles/woocommerce/woocommerce.php:313
+msgid "Stock Quantity: Ascending"
+msgstr "Количество на складе: по возрастанию"
+
+#: profiles/woocommerce/woocommerce.php:314
+msgid "Stock Quantity: Descending"
+msgstr "Количество на складе: по убыванию"
+
+#: profiles/woocommerce/woocommerce.php:315
+msgid "Total Sales: Ascending"
+msgstr "Всего продаж: по возрастанию"
+
+#: profiles/woocommerce/woocommerce.php:316
+msgid "Total Sales: Descending"
+msgstr "Всего продаж: по убыванию"
+
+#: profiles/woocommerce/woocommerce.php:317
+msgid "Number of Comments: Ascending"
+msgstr "Количество комментариев: по возрастанию"
+
+#: profiles/woocommerce/woocommerce.php:318
+msgid "Number of Comments: Descending"
+msgstr "Количество комментариев: по убыванию"
+
+#: profiles/woocommerce/woocommerce.php:319
+msgid "Last Modified Date: Oldest to Newest"
+msgstr "Дата последнего изменения: от старейшего к новейшему"
+
+#: profiles/woocommerce/woocommerce.php:320
+msgid "Last Modified Date: Newest to Oldest"
+msgstr "Дата последнего изменения: от нового к старому"
+
+#: profiles/woocommerce/woocommerce.php:321
+msgid "Sort by menu order"
+msgstr "Сортировать по порядку меню"
+
+#: profiles/woocommerce/woocommerce.php:322
+msgid "Sales products first"
+msgstr "Продукты в распродаже в первую очередь"
+
+#: profiles/woocommerce/woocommerce.php:324
+msgid "Sort by availability"
+msgstr "Сортировать по наличию"
+
+#: profiles/woocommerce/woocommerce.php:325
+msgid "Sort by random"
+msgstr "Сортировать в случайном"
+
+#: profiles/woocommerce/woocommerce.php:326
+msgid "Sort by product ID: Ascending"
+msgstr "Сортировать по ID товара: По возрастанию"
+
+#: profiles/woocommerce/woocommerce.php:327
+msgid "Sort by product ID: Descending"
+msgstr "Сортировать по ID товара: По убыванию"
+
+#: profiles/woocommerce/woocommerce.php:345
+msgid "Show Sorting Dropdown"
+msgstr "Показать сортировочный селект"
+
+#: profiles/woocommerce/woocommerce.php:348
+msgid "Displays Sorting Dropdown list"
+msgstr "Отображает выпадающий список сортировки"
+
+#: profiles/woocommerce/woocommerce.php:353
+msgid "Sorting Dropdown Fields"
+msgstr "Сортировка выпадающих полей"
+
+#: profiles/woocommerce/woocommerce.php:362
+msgid ""
+"fields which you want to see in Sorting Dropdown fields. Press and wait to "
+"reorder."
+msgstr ""
+"поля, которые вы хотите видеть в полях Sorting Dropdown. Нажмите и подождите,"
+" чтобы изменить порядок."
+
+#: profiles/woocommerce/woocommerce.php:367
+msgid "Show shop cart"
+msgstr "Показать корзину магазина"
+
+#: profiles/woocommerce/woocommerce.php:370
+msgid ""
+"Displays cart as button with information, on click popup with selected "
+"products appears"
+msgstr ""
+"Отображает корзину как кнопку с информацией, при нажатии появляется "
+"всплывающее окно с выбранными продуктами"
+
+#: profiles/woocommerce/woocommerce.php:375
+msgid "Cart/Sorting positions"
+msgstr "Корзина / Сортировка позиций"
+
+#: profiles/woocommerce/woocommerce.php:379
+msgid "Cart right, Sorting dropdown left"
+msgstr "Корзина справа, Сортировка выпадающий слева"
+
+#: profiles/woocommerce/woocommerce.php:380
+msgid "Cart left, Sorting dropdown right"
+msgstr "Корзина слева, сортировка выпадающая справа"
+
+#: profiles/woocommerce/woocommerce.php:383
+msgid ""
+"On which side should be shop cart: be left or right. Sorting Dropdown will "
+"take opposite position."
+msgstr ""
+"С какой стороны должна быть магазинная тележка: слева или справа. Сортировка "
+"Dropdown займет противоположную позицию."
+
+#: profiles/woocommerce/woocommerce.php:388
+msgid "After to cart adding"
+msgstr "После добавления в корзину"
+
+#: profiles/woocommerce/woocommerce.php:392
+msgid "Stay on the same page"
+msgstr "Оставайтесь на той же странице"
+
+#: profiles/woocommerce/woocommerce.php:393
+msgid "Redirect to the cart page"
+msgstr "Перенаправить на страницу корзины"
+
+#: profiles/woocommerce/woocommerce.php:394
+msgid "Redirect to the checkout page"
+msgstr "Перенаправить на страницу оформления заказа"
+
+#: profiles/woocommerce/woocommerce.php:397
+msgid "Action after clicking on button Add to cart"
+msgstr "Действие после нажатия на кнопку Добавить в корзину"
+
+#: profiles/woocommerce/woocommerce.php:402
+msgid "Hide added to cart products"
+msgstr "Скрыть добавленные в корзину товары"
+
+#: profiles/woocommerce/woocommerce.php:405
+msgid "Do not display in the table products, which are in the cart"
+msgstr "Не отображать в таблице продукты, которые есть в корзине"
+
+#: profiles/woocommerce/woocommerce.php:468
+msgid "ID"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:603
+msgid "featured"
+msgstr "избранный"
+
+#: profiles/woocommerce/woocommerce.php:604
+msgid "on sale"
+msgstr "распродажа"
+
+#: profiles/woocommerce/woocommerce.php:605
+msgid "out of stock"
+msgstr "распродано"
+
+#: profiles/woocommerce/woocommerce.php:724
+msgid "Single product data"
+msgstr "Данные одного продукта"
+
+#: profiles/woocommerce/woocommerce.php:807
+msgid "Post date"
+msgstr "Дата продукта"
+
+#: profiles/woocommerce/woocommerce.php:840
+msgid "Post modified"
+msgstr "Продукт изменен"
+
+#: profiles/woocommerce/woocommerce.php:939
+msgid "Regular Price"
+msgstr "Регулярная цена"
+
+#: profiles/woocommerce/woocommerce.php:966
+msgid "Sale Price"
+msgstr "Цена со скидкой"
+
+#: profiles/woocommerce/woocommerce.php:993
+msgid "On Sale"
+msgstr "В продаже"
+
+#: profiles/woocommerce/woocommerce.php:1027
+msgid "SKU"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1053
+msgid "Downloadable"
+msgstr "Загружаемые"
+
+#: profiles/woocommerce/woocommerce.php:1111
+msgid "Weight"
+msgstr "Вес"
+
+#: profiles/woocommerce/woocommerce.php:1138
+msgid "Length"
+msgstr "Длинна"
+
+#: profiles/woocommerce/woocommerce.php:1165
+msgid "Height"
+msgstr "Высота"
+
+#: profiles/woocommerce/woocommerce.php:1219
+msgid "Manage stock"
+msgstr "Управление запасами"
+
+#: profiles/woocommerce/woocommerce.php:1229
+msgid "Stock status"
+msgstr "Состояние на складе"
+
+#: profiles/woocommerce/woocommerce.php:1267
+msgid "Stock quantity"
+msgstr "Количество на складе"
+
+#: profiles/woocommerce/woocommerce.php:1295
+msgid "Sold individually"
+msgstr "Продается индивидуально"
+
+#: profiles/woocommerce/woocommerce.php:1323
+msgid "Total sales"
+msgstr "Всего продано"
+
+#: profiles/woocommerce/woocommerce.php:1351
+msgid "Reviews count"
+msgstr "Количество отзывов"
+
+#: profiles/woocommerce/woocommerce.php:1379
+msgid "Tax status"
+msgstr "Налоговый статус"
+
+#: profiles/woocommerce/woocommerce.php:1386
+#: profiles/woocommerce/woocommerce.php:1420
+#: profiles/woocommerce/woocommerce-reviews.php:35
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: profiles/woocommerce/woocommerce.php:1425
+msgid "from 1 to 2"
+msgstr "от 1 до 2"
+
+#: profiles/woocommerce/woocommerce.php:1429
+msgid "from 2 to 3"
+msgstr "от 2 до 3"
+
+#: profiles/woocommerce/woocommerce.php:1433
+msgid "from 3 to 4"
+msgstr "от 3 до 4"
+
+#: profiles/woocommerce/woocommerce.php:1437
+msgid "from 4 to 5"
+msgstr "от 4 до 5"
+
+#: profiles/woocommerce/woocommerce.php:1441
+msgid "exactly 5"
+msgstr "ровно 5"
+
+#: profiles/woocommerce/woocommerce.php:1448
+msgid "Grouped"
+msgstr "Сгруппированные"
+
+#: profiles/woocommerce/woocommerce.php:1475
+#, php-format
+msgid "Group[%s]"
+msgstr "Группа[%s]"
+
+#: profiles/woocommerce/woocommerce.php:1486
+msgid "Upsells"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1512
+#, php-format
+msgid "Upsells[%s]"
+msgstr ""
+
+#: profiles/woocommerce/woocommerce.php:1520
+msgid "Cross sells"
+msgstr "Перекрестная продукция"
+
+#: profiles/woocommerce/woocommerce.php:1548
+#, php-format
+msgid "Cross[%s]"
+msgstr "К продукту[%s]"
+
+#: profiles/woocommerce/woocommerce.php:1556
+msgid "Variations"
+msgstr "Вариации"
+
+#: profiles/woocommerce/woocommerce.php:1583
+#, php-format
+msgid "Var.[%s]"
+msgstr "Вариации.[%s]"
+
+#: profiles/woocommerce/woocommerce.php:1602
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: profiles/woocommerce/woocommerce.php:2024
+#: profiles/woocommerce/woocommerce.php:2026
+msgid "not exists"
+msgstr "не существует"
+
+#: profiles/woocommerce/woocommerce-cross-sells.php:20
+msgid "Cross-sells columns"
+msgstr "Перекрестных продаж колонки"
+
+#: profiles/woocommerce/woocommerce-upsells.php:20
+msgid "Upsells columns"
+msgstr "Upsells столбцы"
+
+#: profiles/woocommerce/woocommerce-reviews.php:29
+msgid "User"
+msgstr "Пользователь"
+
+#: profiles/woocommerce/woocommerce-reviews.php:32
+msgid "Comment"
+msgstr "Комментарий"
+
+#: profiles/woocommerce/woocommerce-related.php:20
+msgid "Related columns"
+msgstr "Связанные столбцы"
+
+#: profiles/woocommerce/woocommerce-universal.php:66
+msgid "WOOT: Set product id please in the shortcode attribute!"
+msgstr "WOOT: укажите идентификатор продукта в атрибуте шорткода!"
+
+#: profiles/woocommerce/woocommerce-universal.php:97
+#, php-format
+msgid "Columns for %s and shortcode [%s]. Press and wait to reorder."
+msgstr ""
+"Столбцы для %s и шорткод [%s]. Нажмите и подождите, чтобы изменить порядок."
+
+#: profiles/woocommerce/views/woot_cart.php:19
+msgid "Cart loading"
+msgstr "Загрузка корзины"
+
+#: profiles/woocommerce/views/reviews.php:38
+#: profiles/woocommerce/views/reviews.php:43
+#, php-format
+msgid "%s reviews"
+msgstr "%s отзывов"
+
+#: profiles/woocommerce/views/woot_drop_down.php:13
+msgid "WOOT: Premium feature"
+msgstr "WOOT: Премиум-функции"
+
+#: profiles/woocommerce/views/woot_drop_down.php:13
+msgid "see details"
+msgstr "смотрите подробности"
+
+#. Name of the plugin
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce plugin for displaying shop products in table format. Tables "
+"makes focus for your buyers on the things they want to get, nothing "
+"superfluous, just what the client wants, and full attention to what is "
+"offered!"
+msgstr ""
+"Плагин WooCommerce для отображения товаров в формате таблицы. Таблицы "
+"фокусируют внимание ваших покупателей на том, что они хотят получить, ничего "
+"лишнего, только то, что хочет клиент, и полное внимание к тому, что "
+"предлагается!"
+
+#. URI of the plugin
+msgid "https://products-tables.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "realmag777"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluginus.net/"
+msgstr ""

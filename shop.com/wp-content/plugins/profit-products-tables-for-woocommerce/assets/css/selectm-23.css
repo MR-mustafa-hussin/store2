@@ -1,0 +1,96 @@
+.selectm23{
+    min-width: 150px;
+    border: solid 1px #ddd;
+    height: auto;
+    min-height: 28px;
+    padding: 0 2px;
+    height: auto;
+    position: relative;
+    /*background-image: linear-gradient(#eee 1%, #fff 15%);*/
+}
+
+.selectm23-input{
+    width: max-content !important;
+    min-width: 10px !important;
+    border: none !important;
+    padding: 0 !important;
+    line-height: 0 !important;
+    min-height: available !important;
+    background-color: transparent !important;
+}
+
+.selectm23-input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.selectm23-selecton{
+    position: relative;
+}
+
+.selectm23 .selectm23-options{
+    width: 100%;
+    position: absolute;
+    max-height: 250px;
+    overflow-y: auto;
+    margin: 1px 0 0 -1px;
+    background: #fff;
+    z-index: 9999;
+}
+
+.selectm23-option{
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    color: #333;
+    font-size: 14px;
+}
+
+.selectm23-option-selected,
+.selectm23-option:hover{
+    background: #e7f3f7;
+    color: #7994fa;
+}
+
+.selectm23-selected{
+    font-size: 13px;
+    display: inline-block;
+    position: relative;
+    margin: 2px 2px 2px 1px !important;
+    padding: 5px 18px 4px 5px;
+    border: 1px solid #eee;
+    max-width: 100%;
+    border-radius: 0;
+    background-color: whitesmoke;
+    color: #428bca;
+    line-height: 12px;
+    cursor: move;
+}
+
+.selectm23-selected-cross{
+    position: absolute;
+    text-shadow: 1px 0;
+    padding: 5px;
+    color: #ccc;
+    top: 5px;
+    right: -2px;
+    cursor: pointer;
+    line-height: 0;
+    font-size: 1.1em;
+}
+
+
+.selectm23-ghost{
+    border: dashed 1px orange;
+    background: green;
+    color: #fff;
+}
+
+.selectm23-ghost .selectm23-selected-cross{
+    display: none;
+}
+
+.selectm23-hidden{
+    display: none;
+}
+

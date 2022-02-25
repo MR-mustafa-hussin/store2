@@ -1,0 +1,468 @@
+#wpbody{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.woot-plugin-name{
+    margin: 0;
+    color: orangered;
+}
+
+/* Tabs Styling */
+.woot-tabs{position:relative;width:100%;font-weight:300;font-size:1.07em;min-width:800px}
+.woot-tabs nav{text-align:left}
+.woot-tabs nav ul{position:relative;display:-ms-flexbox;display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:flex;margin:0;padding:0;list-style:none;-ms-box-orient:horizontal;-ms-box-pack:center;-webkit-flex-flow:row wrap;-moz-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-justify-content:center;-moz-justify-content:center;-ms-justify-content:center;justify-content:center}
+.woot-tabs nav ul li{position:relative;z-index:1;display:block;margin:0;text-align:center;-webkit-flex:1;-moz-flex:1;-ms-flex:1;flex:1}
+.woot-tabs nav a{position:relative;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;line-height:2.5;text-decoration:none;outline:0;box-shadow:none}
+.woot-tabs nav li.tab-current a{color:#74777b}.woot-tabs nav a:focus{outline:0}
+.woot-tabs-style-shape{max-width:100%}.woot-tabs-style-shape>nav ul li{margin:0 3em}
+.woot-tabs-style-shape>nav ul li:first-child{margin-left:0}
+.woot-tabs-style-shape>nav ul li.tab-current{z-index:100}
+.woot-tabs-style-shape>nav li a{overflow:visible;margin:0 -3em 0 0;padding:0;color:#fff;font-weight:500}
+.woot-tabs-style-shape>nav li:first-child a span{padding-left:2em;border-radius:30px 0 0 0}
+.woot-tabs-style-shape>nav li:last-child a span{padding-right:2em;border-radius:0 30px 0 0}
+.woot-tabs-style-shape>nav li a svg{position:absolute;left:100%;margin:0;width:3.03em;height:100%;fill:#bdc2c9}
+.woot-tabs-style-shape>nav li a svg:nth-child(2),.woot-tabs-style-shape>nav li:last-child a svg{right:100%;left:auto;-webkit-transform:scale3d(-1,1,1);transform:scale3d(-1,1,1)}
+.woot-tabs-style-shape>nav li a span{display:block;overflow:hidden;padding:.25em 0;background-color:#bdc2c9;text-overflow:ellipsis;white-space:nowrap}
+.woot-tabs-style-shape>nav li a:hover span{background-color:#0073aa}.woot-tabs-style-shape>nav li a:hover svg{fill:#0073aa}
+.woot-tabs-style-shape>nav li a svg{pointer-events:none}.woot-tabs-style-shape>nav li a svg use{pointer-events:auto}
+.woot-tabs-style-shape>nav li.tab-current a span,.woot-tabs-style-shape>nav li.tab-current a svg{-webkit-transition:none;transition:none}
+.woot-tabs-style-shape>nav li.tab-current a span{background:#fff}
+.woot-tabs-style-shape>nav li.tab-current a svg{fill:#fff}
+.woot-tabs-style-shape .content-wrap{background:#fff;border-radius:0 0 10px 10px}
+.content-wrap{position:relative}.content-wrap section{display:none;margin:0 auto;padding:1em;max-width:100%}
+.content-wrap section.content-current{display:block}
+.content-wrap section h4,.content-wrap section h5{margin:1em 0}
+.content-wrap section p.description{font-size:14px;color:#999;font-weight:400}
+@media screen and (max-width:58em){.woot-tabs-style-shape>nav ul{display:block;padding-top:1.5em}.woot-tabs-style-shape>nav ul li{display:block;margin:-1.25em 0 0;-webkit-flex:none;flex:none}.woot-tabs-style-shape>nav ul li a{margin:0}.woot-tabs-style-shape>nav ul li svg{display:none}.woot-tabs-style-shape>nav ul li a span{padding:1.25em 0 2em!important;border-radius:30px 30px 0 0!important;box-shadow:0 -1px 2px rgba(0,0,0,.1);line-height:1}.woot-tabs-style-shape>nav ul li:last-child a span{padding:1.25em 0!important}.woot-tabs-style-shape>nav ul li.tab-current{z-index:1}}
+.woot-tabs-style-line nav ul{max-width:35%}
+.woot-tabs-style-line nav a{padding:.7em .4em;box-shadow:inset 0 -3px #d1d3d2;color:#74777b;text-align:left;text-transform:uppercase;letter-spacing:1px;font-weight:700;font-size:.8em;line-height:1;-webkit-transition:color .3s,box-shadow .3s;transition:color .3s,box-shadow .3s}
+.woot-tabs-style-line nav a:focus,.woot-tabs-style-line nav a:hover{box-shadow:inset 0 -3px #74777b}
+.woot-tabs-style-line nav li.tab-current a{box-shadow:inset 0 -3px #0073aa;color:#0073aa}@media screen and (max-width:58em){.woot-tabs-style-line nav ul{display:block;box-shadow:none}.woot-tabs-style-line nav ul li{display:block;-webkit-flex:none;flex:none}}
+
+
+
+
+
+/******  loader **********/
+
+.cssload-loader{position:absolute;top:43%;left:40%;left:calc(50% - 36px);width:72px;height:72px;border-radius:50%;-o-border-radius:50%;-ms-border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;perspective:900px}.cssload-inner{position:absolute;width:100%;height:100%;box-sizing:border-box;-o-box-sizing:border-box;-ms-box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;border-radius:50%;-o-border-radius:50%;-ms-border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%}.cssload-inner.cssload-one{left:0;top:0;animation:cssload-rotate-one 1.6s linear infinite;-o-animation:cssload-rotate-one 1.6s linear infinite;-ms-animation:cssload-rotate-one 1.6s linear infinite;-webkit-animation:cssload-rotate-one 1.6s linear infinite;-moz-animation:cssload-rotate-one 1.6s linear infinite;border-bottom:3px solid #22639c}.cssload-inner.cssload-two{right:0;top:0;animation:cssload-rotate-two 1.6s linear infinite;-o-animation:cssload-rotate-two 1.6s linear infinite;-ms-animation:cssload-rotate-two 1.6s linear infinite;-webkit-animation:cssload-rotate-two 1.6s linear infinite;-moz-animation:cssload-rotate-two 1.6s linear infinite;border-right:3px solid #22639c}.cssload-inner.cssload-three{right:0;bottom:0;animation:cssload-rotate-three 1.6s linear infinite;-o-animation:cssload-rotate-three 1.6s linear infinite;-ms-animation:cssload-rotate-three 1.6s linear infinite;-webkit-animation:cssload-rotate-three 1.6s linear infinite;-moz-animation:cssload-rotate-three 1.6s linear infinite;border-top:3px solid #22639c}@keyframes cssload-rotate-one{0%{transform:rotateX(35deg) rotateY(-45deg) rotateZ(0)}100%{transform:rotateX(35deg) rotateY(-45deg) rotateZ(360deg)}}@-o-keyframes cssload-rotate-one{0%{-o-transform:rotateX(35deg) rotateY(-45deg) rotateZ(0)}100%{-o-transform:rotateX(35deg) rotateY(-45deg) rotateZ(360deg)}}@-ms-keyframes cssload-rotate-one{0%{-ms-transform:rotateX(35deg) rotateY(-45deg) rotateZ(0)}100%{-ms-transform:rotateX(35deg) rotateY(-45deg) rotateZ(360deg)}}@-webkit-keyframes cssload-rotate-one{0%{-webkit-transform:rotateX(35deg) rotateY(-45deg) rotateZ(0)}100%{-webkit-transform:rotateX(35deg) rotateY(-45deg) rotateZ(360deg)}}@-moz-keyframes cssload-rotate-one{0%{-moz-transform:rotateX(35deg) rotateY(-45deg) rotateZ(0)}100%{-moz-transform:rotateX(35deg) rotateY(-45deg) rotateZ(360deg)}}@keyframes cssload-rotate-two{0%{transform:rotateX(50deg) rotateY(10deg) rotateZ(0)}100%{transform:rotateX(50deg) rotateY(10deg) rotateZ(360deg)}}@-o-keyframes cssload-rotate-two{0%{-o-transform:rotateX(50deg) rotateY(10deg) rotateZ(0)}100%{-o-transform:rotateX(50deg) rotateY(10deg) rotateZ(360deg)}}@-ms-keyframes cssload-rotate-two{0%{-ms-transform:rotateX(50deg) rotateY(10deg) rotateZ(0)}100%{-ms-transform:rotateX(50deg) rotateY(10deg) rotateZ(360deg)}}@-webkit-keyframes cssload-rotate-two{0%{-webkit-transform:rotateX(50deg) rotateY(10deg) rotateZ(0)}100%{-webkit-transform:rotateX(50deg) rotateY(10deg) rotateZ(360deg)}}@-moz-keyframes cssload-rotate-two{0%{-moz-transform:rotateX(50deg) rotateY(10deg) rotateZ(0)}100%{-moz-transform:rotateX(50deg) rotateY(10deg) rotateZ(360deg)}}@keyframes cssload-rotate-three{0%{transform:rotateX(35deg) rotateY(55deg) rotateZ(0)}100%{transform:rotateX(35deg) rotateY(55deg) rotateZ(360deg)}}@-o-keyframes cssload-rotate-three{0%{-o-transform:rotateX(35deg) rotateY(55deg) rotateZ(0)}100%{-o-transform:rotateX(35deg) rotateY(55deg) rotateZ(360deg)}}@-ms-keyframes cssload-rotate-three{0%{-ms-transform:rotateX(35deg) rotateY(55deg) rotateZ(0)}100%{-ms-transform:rotateX(35deg) rotateY(55deg) rotateZ(360deg)}}@-webkit-keyframes cssload-rotate-three{0%{-webkit-transform:rotateX(35deg) rotateY(55deg) rotateZ(0)}100%{-webkit-transform:rotateX(35deg) rotateY(55deg) rotateZ(360deg)}}@-moz-keyframes cssload-rotate-three{0%{-moz-transform:rotateX(35deg) rotateY(55deg) rotateZ(0)}100%{-moz-transform:rotateX(35deg) rotateY(55deg) rotateZ(360deg)}}.woot-admin-preloader{position:fixed;left:0;top:0;width:100%;height:100%;z-index:9999;background: #fff;}
+.woot-admin-preloader {
+    -webkit-transition: opacity 0.7s ease-in-out;
+    -moz-transition: opacity 0.7s ease-in-out;
+    -ms-transition: opacity 0.7s ease-in-out;
+    -o-transition: opacity 0.7s ease-in-out;
+    opacity: 1;
+}
+.woot-admin-preloader.hide-opacity{
+    opacity: 0;
+}
+
+/*************/
+
+tr.woot-tr-highlight{
+    height: auto;
+    min-height: 58px;
+    outline: dashed 2px orange !important;
+    background-color: yellowgreen !important;
+}
+
+/***********************************************/
+
+.woot-data-table .table23_td_title{
+    color:#428bca !important;
+}
+
+.woot-data-table .table23_td_title.table23-td-editable{
+    /*color:cornflowerblue !important;*/
+}
+
+.woot-columns-table .table23_td_title{
+    width: 1px !important;
+}
+
+.woot-columns-table .table23_td_title
+{
+    width: 20% !important;
+    max-width: 120px !important;
+}
+
+
+#woot-meta-columns-table .table23_td_meta_key{
+    width: 30% !important;
+    max-width: 250px !important;
+}
+
+.woot-columns-table .table23_td_field_key{
+    width: 90px !important;
+}
+
+#woot-meta-columns-table .table23_td_meta_type{
+    width: 120px !important;
+}
+
+.woot-columns-table .table23_td_field_key select,
+#woot-meta-columns-table .table23_td_meta_type select{
+    max-width: 100%;
+}
+
+
+.woot-columns-table .table23_td_notes,
+.woot-columns-table .table23_td_notes{
+    width: 180px !important;
+}
+
+
+
+
+.woot-columns-table .table23_td_width,
+.woot-columns-table .table23_td_is_active,
+.woot-columns-table .table23_td_show_on_mobile,
+#woot-meta-columns-table .table23_td_actions{
+    width: 1px !important;
+    text-align: center;
+}
+
+.woot-columns-table .table23_td_actions{
+    width: 80px;
+}
+
+.woot-data-table .table23_td_move{
+    width: 1px !important;
+    text-align: center;
+}
+
+#woot-predefinition-table .table23_td_title,
+#woot-predefinition-table .table23_td_value,
+#woot-table-options .table23_td_title,
+#woot-table-options .table23_td_value{
+    width: 25% !important;
+    max-width: 180px !important;
+}
+
+#woot-settings-table .table23_td_title{
+    width: 18% !important;
+}
+
+#woot-settings-table .table23_td_notes{
+    width: 32% !important;
+}
+
+#woot-settings-table .table23_td_value{
+    width: 50% !important;
+}
+
+/***********************************************/
+
+#woot-admin-table .table23_td_title{
+    width: 35% !important;
+    min-width: 300px !important;
+    font-size: 1.05em !important;
+}
+
+#woot-admin-table .table23_td_skin select{
+    width: 100%;
+    min-width: 80px;
+}
+
+#woot-admin-table .table23_td_actions{
+    width: 120px !important;
+}
+
+#woot-admin-table .table23_td_thumbnail{
+    width: 1px !important;
+    text-align: center;
+}
+
+#woot-popup-columns-template .woot-form-element-container{
+    padding: 9px;
+}
+
+#woot-table-options .table23_td_notes,
+#woot-table-options .table23_td_value{
+    max-width: 220px;
+    overflow-wrap: break-word;
+}
+
+#woot-settings-table .table23_td_value{
+    max-width: 500px;
+    overflow-wrap: break-word;
+}
+
+#woot-settings-table .table23_td_value .table23-editable-textarea{
+    min-width: 500px;
+}
+
+.woot-options-wrapper p.notice{
+    padding: 9px; 
+    margin: 0 0 7px 0; 
+    display: block; 
+    width: 98%;
+}
+
+th[data-key="shortcode"]{
+    color: red !important;
+    border-bottom: 1px dotted !important;
+    cursor: pointer;
+    text-align: center;
+}
+
+th[data-key="shortcode"] a{
+    color: red !important;
+    text-decoration: none;
+}
+
+/********************************************************/
+
+.woot-field-edit-btn{
+    margin-right: 3px !important;
+}
+
+#woot_options_columns_table .table23_td_title{
+    white-space: nowrap;
+}
+
+#woot_options_columns_table .table23_td_notes{
+    font-style: italic;
+}
+
+
+.wp-core-ui select,
+.wp-core-ui .button, 
+.wp-core-ui .button-primary,
+.wp-core-ui .button-secondary{
+    font-size: 0.9em;
+
+}
+
+.wp-core-ui select{
+    border-color: #ddd;
+}
+
+.woot-dash-btn{
+    position: relative;
+    padding-left: 27px !important;
+    font-size: 0.94em !important;
+    line-height: 2.3em;
+}
+
+.woot-dash-btn .dashicons-before{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.woot-dash-btn-single{
+    padding: 0 5px !important;
+    margin-bottom: 2px !important;
+}
+
+.woot-dash-btn-rotate .dashicons-before.dashicons-welcome-add-page:before{
+    transform: rotate(180deg);
+}
+
+.woot-shortcode-copy-container,
+.woot-shortcode-copy-container:focus{
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+#woot-settings-table .selectm23-selected{
+    padding: 10px 18px 10px 8px;
+    font-size: 1.02em;
+    border-radius: 0;
+}
+
+#woot-vocabulary-table th[data-key="delete"]{
+    width: 1px;
+    text-align: center;
+}
+
+.CodeMirror {
+    border: 1px solid #ddd;
+}
+
+.woot-dash-btn-single{
+    line-height: 1.4em;
+}
+
+#woot-popup-columns-template .woot-modal{
+    left: 3%;
+    right: 3%;
+    top: 50px;
+    bottom: 3%;
+}
+
+.woot-color-field{
+    color: #eee !important;
+}
+
+.woot-panel-button {
+    font-weight: bold;
+    border: dashed 1px green;
+    color: #e7470c;
+    line-height: 27px;
+    height: auto !important;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0085ba), color-stop(1, #1e62d0));
+    background:-moz-linear-gradient(top, #0085ba 5%, #1e62d0 100%);
+    background:-webkit-linear-gradient(top, #0085ba 5%, #1e62d0 100%);
+    background:-o-linear-gradient(top, #0085ba 5%, #1e62d0 100%);
+    background:-ms-linear-gradient(top, #0085ba 5%, #1e62d0 100%);
+    background:linear-gradient(to bottom, #0085ba 5%, #1e62d0 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#1e62d0',GradientType=0);
+    background-color:#0085ba;
+    border-radius:0;
+    border:1px solid #337fed;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:3px 11px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #1570cd;
+    margin-bottom: 2px;
+}
+
+.woot-panel-button:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #1e62d0), color-stop(1, #3d94f6));
+    background:-moz-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
+    background:-webkit-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
+    background:-o-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
+    background:-ms-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
+    background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e62d0', endColorstr='#3d94f6',GradientType=0);
+    background-color:#1e62d0;
+    color: #fff;
+}
+
+.woot-panel-button:before{
+    vertical-align: middle;
+}
+
+#woot-rate-alert .button-large{
+    line-height: 30px;
+}
+
+#woot-rate-alert .button-large.dashicons-before:before{
+    margin: 4px 7px 0 0;
+    line-height: 19px;
+}
+
+.woot-panel-button.dashicons-before:before{
+    margin: 4px 7px 0 0;
+    vertical-align: sub;
+}
+
+.woot-panel-button{
+    line-height: 34px;
+}
+
+.woot-btn-update-rate.dashicons-before:before{
+    font-size: 21px !important;
+    color: #e7470c;
+    line-height: 23px;
+}
+
+
+#woot-rate-alert{
+    width: 96%;
+    margin: 0 auto;
+    background: #fff; 
+    padding: 15px; 
+    border-radius: 4px; 
+    margin: 5px 0 25px 0;
+}
+
+#woot-rate-alert table{
+    width: 100%; 
+    margin-bottom: 7px;
+}
+
+#woot-rate-alert table tr td:nth-child(1){
+    width: 33%; 
+    text-align: left;
+}
+
+#woot-rate-alert table tr td:nth-child(2){
+    width: 33%; 
+    text-align: center;
+}
+
+#woot-rate-alert table tr td:nth-child(3){
+    width: 33%; 
+    text-align: right;
+}
+
+.blocks-constructor-23-element-btn.woot-btn{
+    line-height: 23px !important;
+    height: auto;
+    border-radius: 36px;
+}
+
+
+@font-face {
+    font-family: 'woot';
+    src: url('../font/woot.eot?26885200');
+    src: url('../font/woot.eot?26885200#iefix') format('embedded-opentype'),
+        url('../font/woot.woff?26885200') format('woff'),
+        url('../font/woot.ttf?26885200') format('truetype'),
+        url('../font/woot.svg?26885200#woot') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.woot-icon
+{
+    font-family: "woot";
+    font-style: normal;
+    font-weight: normal;
+    speak: never;
+
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    /* opacity: .8; */
+
+    /* For safety - reset parent styles, that can break glyph codes*/
+    font-variant: normal;
+    text-transform: none;
+
+    /* fix buttons height, for twitter bootstrap */
+    line-height: 1em;
+
+    /* Animation center compensation - margins should be symmetric */
+    /* remove if not needed */
+    margin-left: .2em;
+
+    /* You can be more comfortable with increased icons size */
+    font-size: 120%;
+
+    /* Font smoothing. That was taken from TWBS */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Uncomment for 3D effect */
+    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+
+.clearfix{
+    clear: both;
+}
+
+@media screen and (max-width: 782px){
+    .wp-core-ui .button, .wp-core-ui .button.button-large, .wp-core-ui .button.button-small{
+        min-height: auto;
+    }
+}
+
+.woot-table-json-data,
+.woot-settings-json-data{
+    display: none;
+}
+

@@ -1,0 +1,474 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Size Chart for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-30 08:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: product-size-chart-for-woo"
+
+#. Description of the plugin
+msgid ""
+"A plugin helps you to customize and design the size chart of specific "
+"products or categories."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:249
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:269
+msgid "Add"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:51
+msgid "Add Item"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:49
+msgid "Add New"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:179
+msgid "After add to cart"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:50
+msgid "All Size Charts"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:102
+msgid "Assign"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:176
+msgid "Before add to cart"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:178
+msgid "Black"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:182
+msgid "Blue"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:492
+msgid "Border"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:577
+msgid "Border color"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:295
+msgid "Button color"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:259
+msgid "Button type"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:634
+msgid "Categories"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:116
+msgid "Chest : "
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:126
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:141
+msgid "Chest: "
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:259
+msgid "Columns"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:941
+msgid "Copied"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:338
+msgid "Custom CSS"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:525
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:565
+msgid "Dashed"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:253
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:272
+msgid "Delete"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:94
+msgid "Design"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:530
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:570
+msgid "Dotted"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:85
+msgid "Duplicate"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:152
+msgid "Enable"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:297
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:340
+msgid "Enter text.."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:439
+msgid "Even row background"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:451
+msgid "Even row text"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:161
+msgid ""
+"For example, if your foot length is 25.5 cm, you should choose the size 8."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:143
+msgid "General settings"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:202
+msgid "Green"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:413
+msgid "Header background"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:234
+msgid "Hide all"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:221
+msgid "Hide on size chart"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:149
+msgid "Hips : "
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:215
+msgid "Horizontal"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:512
+msgid "Horizontal border style"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:497
+msgid "Horizontal width"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woo-product-size-chart/"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:268
+msgid "Icon"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:231
+msgid "Image"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:396
+msgid "Import CSV"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:342
+msgid "Insert custom css here..."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:288
+msgid "Label for size chart on front end"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:226
+msgid "Left"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:151
+msgid "Measure around the fullest part of your body at the top of your leg."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:118
+msgid ""
+"Measure around the fullest part, place the tape close under the arms and "
+"make sure the tape is flat across the back."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:133
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:147
+msgid "Measure around your natural waistline, keeping the tape a bit loose."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:128
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:143
+msgid "Measure under your arms, around the fullest part of the your chest."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:111
+msgid "Measure your body as follows to choose the size that suits you best:"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:159
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:168
+msgid "Measure your foot length carefully."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:198
+msgid "Multi size charts"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:225
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:191
+msgid "None"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:466
+msgid "Odd row background"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:478
+msgid "Odd row text"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:387
+msgid "OK"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:198
+msgid "Oliver"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:194
+msgid "Orange"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:210
+msgid "Pink"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:169
+msgid "Please choose the correct size according to your foot length"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:160
+msgid ""
+"Please choose the correct size according to your foot length and chinese "
+"size."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:43
+msgid ""
+"Please install and activate WooCommerce to use Size Chart for WooCommerce "
+"plugin."
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:183
+msgid "Pop-up"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:229
+msgid "Popup button position in horizontal"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:252
+msgid "Popup button position in vertical"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:590
+msgid "PREVIEW"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:371
+msgid "Preview"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:628
+msgid "Prioritize to display when product has multi size charts"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:55
+msgid "Product Size Chart"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Size Chart for WooCommerce"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:187
+msgid "Product tab"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:603
+msgid "Products"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:206
+msgid "Purple"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:186
+msgid "Red"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:148
+msgid "Remove image"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:401
+msgid "Reset"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:222
+msgid "Right"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:240
+msgid "Rows"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:358
+msgid "Save"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:144
+msgid "Select Image"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:175
+msgid "Select template"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:82
+msgid "Settings"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:351
+msgid ""
+"Shortcode can be inserted to the content of page or post then converted to "
+"HTML on corresponding\n"
+"                            page or post"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:209
+msgid "Show all size charts for a category or product"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:47
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:48
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:81
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/front-end/front-end.php:58
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/front-end/front-end.php:104
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/front-end/front-end.php:208
+msgid "Size Chart"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:98
+msgid "Size chart image "
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:278
+msgid "Size chart label"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:168
+msgid "Size chart type"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:520
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:560
+msgid "Solid"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:228
+msgid "Table"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:408
+msgid "Table Color"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:190
+msgid "Teal"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:171
+msgid "Template"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:271
+msgid "Text"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:317
+msgid "Text color"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:425
+msgid "Text header"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:160
+msgid "Tools"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:236
+msgid "Vertical"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:552
+msgid "Vertical border style"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:537
+msgid "Vertical width"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:131
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/product-size-chart-for-woo.php:145
+msgid "Waist: "
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:128
+msgid "Width:"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/design-new.php:214
+msgid "Yellow"
+msgstr ""
+
+#: G:/Git/FREE-VERSION/product-size-chart-for-woo/product-size-chart-for-woo/admin/setting.php:353
+msgid "You can take the shortcode in \"All size charts\" section."
+msgstr ""

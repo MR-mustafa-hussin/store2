@@ -1,0 +1,263 @@
+:root {
+    --woot-skin3-color1: #EFD7EA;/* borders */
+    --woot-skin3-color2: #F349CE;/* slider bar */
+    --woot-skin3-color3: #FF4B42;/* slider handlers */
+    --woot-skin3-color4: #FBECF8;/* slider container */
+    --woot-skin3-color5: #FF4B42;/* slider min/max */
+    --woot-skin3-color6: #FFFFFF;/* slider span */
+    --woot-skin3-color7: #EFD7EA;/* disabled switcher span */
+    --woot-skin3-color8: #FBECF8;/* disabled switcher before */
+    --woot-skin3-color9: #FF4B42;/* enabled switcher span */
+    --woot-skin3-color10: #FBA100;/* enabled switcher before */
+    --woot-skin3-color11: #FF4B42;/* buttons bg, table scrollbar bg */
+    --woot-skin3-color12: #FFFFFF;/* buttons color */
+    --woot-skin3-color13: #EFD7EA;/* selected column */
+    --woot-skin3-color14: #F349CE;/* th bg */
+    --woot-skin3-color15: #FFFFFF;/* th head color */
+    --woot-skin3-color15-1: #423E3E;/* th foot color */
+    --woot-skin3-color16: #FBA100;/* add to cart button bg */
+    --woot-skin3-color17: #F9E78B;/* add to cart button icon color */
+    --woot-skin3-color18: #FFF;/* add to cart button color */
+    --woot-skin3-color19: #F1D4EB;/* add to cart checkbox */
+    --woot-skin3-color20: #FFF;/* woocommerce cart bg */
+    --woot-skin3-color21: #FFFFFF;/* tr:nth-of-type(odd) */
+    --woot-skin3-color22: #FBECF8;/* tr:nth-of-type(even) */
+    --woot-skin3-color23: #EFD7EA;/* tr:hover */
+}
+
+
+#tid.data-table-23 input[type='text'],
+#tid.data-table-23 input[type='number'],
+#tid.data-table-23 input[type='email'],
+#tid.data-table-23 input[type='tel'],
+#tid.data-table-23 input[type='url'],
+#tid.data-table-23 input[type='password'],
+#tid.data-table-23 input[type='search'],
+#tid.data-table-23 textarea,
+#tid.woot-filter-cell-type-select select,
+#tid.data-table-23 button,
+#tid.data-table-23 input,
+#tid.data-table-23 select,
+#tid.data-table-23 textarea,
+#tid.data-table-23 .selectm23,
+#tid .woot-woocommerce-cart,
+#tid .woot-filter-navigation-label,
+#tid .woot-tax-term,
+#tid .woot-woocommerce-text-search-container[data-table-id="tid"] input[type='search']{
+    border-color: var(--woot-skin3-color1) !important;
+    outline-color: var(--woot-skin3-color1) !important;
+}
+
+#tid .woot-woocommerce-text-search-container[data-table-id="tid"] .woot-woocommerce-text-search-wrapper::-webkit-scrollbar {
+    background: var(--woot-skin3-color4) !important;
+}
+
+#tid .woot-woocommerce-text-search-container[data-table-id="tid"] .woot-woocommerce-text-search-wrapper::-webkit-scrollbar-thumb {
+    background: var(--woot-skin3-color2) !important;
+}
+
+#tid .ranger23-bar{
+    background: var(--woot-skin3-color2) !important;
+}
+
+#tid .ranger23-handler-left,
+#tid .ranger23-handler-right {
+    background: var(--woot-skin3-color3) !important;
+}
+
+#tid .ranger23-container,
+#tid .woot-filter-navigation-label{
+    background: var(--woot-skin3-color4) !important;
+}
+
+#tid .ranger23-min,
+#tid .ranger23-max,
+#tid .woot-filter-navigation-label,
+#tid .woot-tax-term{
+    color: var(--woot-skin3-color5) !important;
+}
+
+#tid .ranger23-handler-left span,
+#tid .ranger23-handler-right span {
+    color: var(--woot-skin3-color6) !important;
+}
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#tid .switcher23-toggle span{
+    background: var(--woot-skin3-color7) !important;
+}
+
+#tid .switcher23-toggle:before{
+    background: var(--woot-skin3-color8) !important;
+}
+
+#tid .switcher23:checked + .switcher23-toggle span{
+    background: var(--woot-skin3-color9) !important;
+}
+
+#tid .switcher23:checked + .switcher23-toggle:before{
+    background: var(--woot-skin3-color10) !important;
+}
+
+#tid .woot-btn,
+#tid .table23-print-btn,
+#tid .table23-load-more-button a,
+#tid .woot-add-to-cart-all-btn{
+    background-color: var(--woot-skin3-color11) !important;
+    color: var(--woot-skin3-color12) !important;
+}
+
+#tid .woot-num-cell{
+    color: var(--woot-skin3-color11) !important;
+    border-color: var(--woot-skin3-color14) !important;
+}
+
+
+#tid .table23-flow-header > div{
+    color: var(--woot-skin3-color11) !important;
+}
+
+#tid.woot-data-table a.woot-btn{
+    color: var(--woot-skin3-color12) !important;
+}
+
+#tid .horizontal-scrollbar23-handler{
+    background-color: var(--woot-skin3-color11) !important;
+    border-color: var(--woot-skin3-color11) !important;
+}
+
+#tid .horizontal-scrollbar23-track{
+    border-color: var(--woot-skin3-color1) !important;
+}
+
+#tid table th.table23-order-asc,
+#tid table th.table23-order-desc,
+#tid table td.table23-order-asc,
+#tid table td.table23-order-desc{
+    background: var(--woot-skin3-color13) !important;
+}
+
+#tid.woot-data-table table thead th{
+    background: var(--woot-skin3-color14) !important;
+}
+
+
+#tid.woot-data-table table thead th{
+    color: var(--woot-skin3-color15);
+}
+
+#tid.woot-data-table table tfoot th{
+    color: var(--woot-skin3-color15-1);
+}
+
+#tid table .woot-btn.woot-add-to-cart-btn,
+#tid .woot_count_in_cart{
+    background-color: var(--woot-skin3-color16) !important;
+    color: var(--woot-skin3-color18) !important;
+}
+
+#tid .woot-btn.woot-add-to-cart-btn span{
+    color: var(--woot-skin3-color17) !important;
+}
+
+#tid .woot-checkmark{
+    background-color: var(--woot-skin3-color19) !important;
+}
+
+#tid .woot-woocommerce-cart{
+    background: var(--woot-skin3-color20) !important;
+}
+
+#tid.data-table-23 table tbody tr:nth-of-type(odd) {
+    background-color: var(--woot-skin3-color21) !important;
+}
+
+#tid.data-table-23 table tbody tr:nth-of-type(even) {
+    background-color: var(--woot-skin3-color22) !important;
+}
+
+#tid.data-table-23 table tbody tr:hover {
+    background-color: var(--woot-skin3-color23) !important;
+}
+
+#tid .table23-tr-notice,
+#tid .table23-place-loader{
+    background: repeating-linear-gradient(
+        135deg,
+        var(--woot-skin3-color3),
+        var(--woot-skin3-color3) 10px,
+        var(--woot-skin3-color4) 10px,
+        var(--woot-skin3-color4) 20px
+        ) !important;
+
+    color: var(--woot-skin3-color6);
+}
+
+
+#tid .table23_td_cell .star-rating span::before,
+#tid .table23_td_cell .star-rating::before{
+    color: var(--woot-skin3-color11) !important;
+}
+
+#tid .selectm23-selected{
+    color: var(--woot-skin3-color3) !important;
+}
+
+#tid .selectm23-option-selected, 
+#tid .selectm23-option:hover {
+    background: var(--woot-skin3-color4) !important;
+    color: var(--woot-skin3-color3) !important;
+}
+
+#tid div.calendar23-label{
+    background: var(--woot-skin3-color3) !important;
+}
+
+#tid.woot_woocommerce_tables .table23-display-cell-info{
+    color: var(--woot-skin3-color15-1) !important;
+    background: var(--woot-skin3-color4) !important;
+    border-color: var(--woot-skin3-color1) !important;
+}
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+#tid.data-table-23 table th.table23-order-able.table23-order-asc:before, 
+#tid.data-table-23 table th.table23-order-able.table23-order-desc:after{
+    color: var(--woot-skin3-color12) !important;
+}
+
+#tid.data-table-23 table th.table23-order-able:before,
+#tid.data-table-23 table th.table23-order-able:after{
+    color: var(--woot-skin3-color15-1) !important;
+}
+
+#tid table th[data-key="add_to_cart"],
+#tid table span[data-key="add_to_cart"],
+#tid table b[data-key="add_to_cart"],
+#tid table th[data-key="compare"],
+#tid table span[data-key="compare"],
+#tid table b[data-key="compare"],
+#tid table th[data-key="favourites"],
+#tid table span[data-key="favourites"],
+#tid table b[data-key="favourites"]{
+    color: var(--woot-skin3-color17) !important;
+    border-bottom-color: var(--woot-skin3-color17) !important;
+}
+
+#tid .woot_compare_remove_btn{
+    color: var(--woot-skin3-color17) !important;
+}
+
+#tid .woot-data-table .table23_td_price, 
+#tid .woot-data-table .table23_td_regular_price, 
+#tid .woot-data-table .table23_td_sale_price {
+    color: crimson;
+}
+
+#tid.woot-data-table table .table23_td_post_title,
+#tid.woot-data-table table .table23_td_title,
+#tid.woot-data-table table td a{
+    color: var(--woot-skin3-color11);
+}

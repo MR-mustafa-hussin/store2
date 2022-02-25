@@ -1,0 +1,45 @@
+body {
+    -webkit-print-color-adjust:exact;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    text-align: center;
+}
+
+table, th, td
+{
+    border-collapse:collapse;
+    border: 1px solid #aaa;
+    color: #333;
+}
+
+td{
+    width: content-box;
+    max-width: 90px;
+}
+
+td a{
+    text-decoration: none;
+    color: #333;
+}
+
+
+td audio,
+.woot-profuct-tag-container{
+    display: none;
+}
+
+tr[data-pid="gallery"],
+tr[data-pid="add_to_cart"],
+tr[data-pid="single"]{
+    display: none;
+}
+
+.woot-do-not-print{
+    display: none;
+}
+
